@@ -1,0 +1,15 @@
+{
+    "name": "Manakudy Beach",
+    "description": [
+      "Manakudy Beach, located in the Kanyakumari district of Tamil Nadu, India, is a serene and picturesque coastal destination known for its unspoiled natural beauty, golden sands, and clear blue waters. It features unique mangrove forests and backwaters, making it a haven for bird watchers and nature enthusiasts. Less commercialized than other beaches, it offers a tranquil environment ideal for leisurely walks, picnics, and fishing. The nearby fishing villages provide a glimpse into local culture and cuisine, especially fresh seafood. Easily accessible from Kanyakumari, Manakudy Beach is a hidden gem perfect for relaxation and nature exploration."
+    ],
+    "image": [
+      "beaches/310-a.jpg",
+      "beaches/310-b.jpg",
+      "beaches/310-c.jpg",
+      "beaches/310-d.jpg"
+    ],
+    "location": "Manakudy, Kanniyakumari, Tamil Nadu 629602",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.088004978594695, 77.4832368956115"
+}

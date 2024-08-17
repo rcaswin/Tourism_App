@@ -1,0 +1,19 @@
+{
+    "name": "Marthandam CSI Church",
+    "description": ["Marthandam CSI Church is among the largest churches in the Kanniyakumari diocese located in India. It has a significant presence in the district. The Diocese has the advantage of having access to a broad range of services, including schools, colleges, hospitals, and even an embroidery industry. They also have a book depot, press, and even a shopping complex available. Rev. Robert Sinclair was the one who constructed the church and had migrated to India from Scotland after being ordained as a minister in 1910. He took over Rev. H.I Hacker's reverence in 1919 and arrived at Marthandam a year later in 1920. From 1919 to 1939, Rev. Sinclair fulfilled his vision through a great deal of dedication and labor. On 26 July 1924, the foundation stone of his dream was laid by Rev. C.G Marshall and it took 10 years to construct the building entirely. He had a vision of a special place of worship for the people of Marthandam. This dream came to fruition on 13 May 1933, when the church was officially opened and blessed."],
+    "image": [
+      "churches/204-a.png", 
+      "churches/204-b.png", 
+      "churches/204-c.png"],
+    "location" : "Main Road, Marthandam, Tamil Nadu 629165",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.184253940325824, 77.42818310185464",
+    "visitingtime": {
+      "starttime": "06:00 AM",
+      "closingtime": "12:00 AM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

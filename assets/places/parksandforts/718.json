@@ -1,0 +1,20 @@
+{
+    "name": "Children's Park inside Udayagiri Fort",
+      "description": ["The Children's Park inside Udayagiri Fort is a charming recreational area situated within the historic Udayagiri Fort complex in Kanyakumari, Tamil Nadu, India. This park is specifically designed to cater to children and families, offering a safe and enjoyable environment for play and relaxation. It features playground equipment, green spaces for picnics, and benches for parents to relax while children play. Located amidst the ancient fort's ruins and scenic surroundings, the Children's Park inside Udayagiri Fort provides a unique blend of historical ambiance and modern recreational facilities."],
+      "image": [
+        "parksandforts/718-a.jpg", 
+        "parksandforts/718-b.jpg", 
+        "parksandforts/718-c.jpg"],
+      "location" : "68VP+363, Puliyoorkurichi, Padmanabhapuram, Tamil Nadu 629175",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.24293840481919, 77.3354924580527",
+     
+      "visitingtime": {
+        "starttime": "12:00 AM",
+        "closingtime": "12:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]  
+}

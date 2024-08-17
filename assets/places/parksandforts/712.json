@@ -1,0 +1,20 @@
+{
+    "name": "Dev Nursery Gardens",
+      "description": ["Dev Nursery Garden is a well-known garden located in Kanyakumari, Tamil Nadu, India. It is celebrated for its diverse collection of plants, flowers, and ornamental trees, making it a popular destination for botany enthusiasts and tourists alike. The garden offers a serene environment for leisurely walks amidst colorful blooms and verdant foliage. With its peaceful ambiance and scenic views, Dev Nursery Garden provides visitors with a refreshing retreat in the heart of Kanyakumari."],
+      "image": [
+        "parksandforts/712-a.jpg", 
+        "parksandforts/712-b.jpg", 
+        "parksandforts/712-c.jpg"],
+      "location" : "Kanjampuram, Ezhudesam, Dist, Tamil Nadu 629154",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.274453263473047, 77.15671998873538",
+     
+      "visitingtime": {
+        "starttime": "08:30 AM",
+        "closingtime": "06:30 PM"
+      },
+    "holiday": [
+      "Tuesday - Closed/Holiday"
+    ]  
+}

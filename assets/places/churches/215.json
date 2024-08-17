@@ -1,0 +1,19 @@
+{
+    "name": "St.Alex's Church",
+    "description": ["This church has build and opened alternate to the old church. It has no concrete in the roof.The amazing location of the church makes cool. "],
+    "image": [
+      "churches/215-a.jpg", 
+      "churches/215-b.jpg",
+      "churches/215-c.jpg"],
+    "location" : "Kottilpadu, Tamil Nadu 629252",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.170751883236056, 77.26443200869144",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

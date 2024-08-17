@@ -1,0 +1,31 @@
+{
+    "name": "Swamithoppe Ayya Vaikundar Temple",
+    "description": ["Swamithoppe Ayya Vaikundar Temple is dedicated to Ayya Vaikundar, the founder of the Ayyavazhi sect. The temple is a significant pilgrimage site for followers of Ayyavazhi, known for its unique religious practices and festivals."],
+    "image": [
+      "temples/t115-a.jpg", 
+      "temples/t115-b.jpg", 
+      "temples/t115-c.jpg"],
+    "location" : "Swamitopur, Thamaraikulam, Tamil Nadu 629704",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.117279465837672, 77.4915611951051",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

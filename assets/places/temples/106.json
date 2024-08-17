@@ -1,0 +1,31 @@
+{
+    "name": "Arulmigu Thamburan ThiruKovil Marungoor",
+    "description": ["Marungoor Subramanya Swamy Temple is dedicated to Lord Murugan, one of the most revered deities in Tamil Nadu. The temple is known for its serene environment and beautiful surroundings. It attracts numerous devotees, especially during the Thaipusam festival, when special rituals and celebrations are held."],
+    "image": [
+      "temples/t106-a.jpg", 
+      "temples/t106-b.jpg", 
+      "temples/t106-c.jpg"],
+    "location" : "Marungoor, Tamil Nadu 629402",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.170738437801258, 77.50350639204996",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "5:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "Our Lady of Ransom Church",
+    "description": ["The Kanniyakumari Parish almost coincides with the civil village of Kanniyakumari. Historical artifacts point to St. Thomas, one of Jesus' disciples, having been in this region. In 1542 St. Francis Xavier came here. In 1862, Kanniyakumari became a separate parish. In 1914 the church was constructed. The length of the Church is 153 feet, breadth 53 feet and height is 153 feet. All these depict the breads of the Holy Rosary. The parish has nearly 13,000 people organized into 86 Basic Christian Communities."],
+    "image": [
+      "churches/205-a.jpg", 
+      "churches/205-b.jpg", 
+      "churches/205-c.jpg"],
+    "location" : "Church rd, Kanniyakumari, TamilNadu 629702",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.085780637880037, 77.55232525563952",
+    "visitingtime": {
+      "starttime": "06:00 AM",
+      "closingtime": "12:00 AM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

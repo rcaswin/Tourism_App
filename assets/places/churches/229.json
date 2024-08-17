@@ -1,0 +1,19 @@
+{
+    "name": "St. Thomas Forane Church Thoothoor",
+    "description": ["This church was dedicated to Saint Thomas.It serves as head of Thoothoor vicariate in the Archdiocese of Trivandrum.Since it is in tamilnadu,It follows malayalam latin-rite for rituals from the ancient times. "],
+    "image": [
+      "churches/229-a.jpg", 
+      "churches/229-b.jpg",
+      "churches/229-c.jpg"],
+    "location" : " Thoothoor, Tamil Nadu 629176",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.247552229711792, 77.15927059366497",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

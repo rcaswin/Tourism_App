@@ -1,0 +1,30 @@
+{
+    "name": "Shri Esakki Amman Temple, Muppandal",
+    "description": [" Shri Esakki Amman Temple, located in Muppandal, is a prominent temple dedicated to Goddess Esakki Amman, a fierce and protective deity worshipped primarily in Tamil Nadu. The temple is renowned for its vibrant festivals, especially the annual Esakki Amman festival, which attracts thousands of devotees from surrounding areas. The temple's architecture is traditional and intricate, reflecting the rich cultural heritage of the region. Devotees visit the temple to seek the blessings of Esakki Amman for protection, prosperity, and to overcome obstacles in their lives. The temple is also known for its powerful rituals and ceremonies that are believed to bestow divine grace upon the worshippers."],
+    "image": [ 
+      "temples/t116-b.jpg", 
+      "temples/t116-c.jpg"],
+    "location" : "Muppandal, Kanyakumari District, Tamil Nadu",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.267228635425528, 77.54848843757406",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "+91 4652 273 888"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

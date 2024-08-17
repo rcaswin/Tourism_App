@@ -1,0 +1,20 @@
+{
+    "name": "Mukkadal Science Park",
+      "description": ["A park is an area of natural, semi-natural or planted space set aside for human enjoyment and recreation or for the protection of wildlife or natural habitats. Urban parks are green spaces set aside for recreation inside towns and cities. The largest parks can be vast natural areas of hundreds of thousands of square kilometers (or square miles), with abundant wildlife and natural features such as mountains and rivers. In many large parks, camping in tents is allowed with a permit. Many natural parks are protected by law, and users may have to follow restrictions (e.g. rules against open fires or bringing in glass bottles). Large national and sub-national parks are typically overseen by a park ranger."],
+      "image": [
+        "parksandforts/704-a.jpg", 
+        "parksandforts/704-b.jpg", 
+        "parksandforts/704-c.jpg"],
+      "location" : "Mukkadal Dam and Vivekananda Kendra, Jetty, Kanniyakumari, Tamil Nadu, 629702, India",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.282170703306184, 77.41481261795636",
+     
+      "visitingtime": {
+        "starttime": "09:30 AM",
+        "closingtime": "05:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]  
+}

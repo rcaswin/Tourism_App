@@ -1,0 +1,30 @@
+{
+    "name": "Thovalai thirumalai Murugan Temple",
+    "description": ["Mutturaman Temple, located in Thovalai, is a significant Hindu temple dedicated to Lord Mutturaman, believed to be a powerful deity who grants blessings for prosperity and protection. The temple is noted for its serene ambiance and traditional South Indian architecture, featuring intricate carvings and a peaceful sanctum. Devotees frequent the temple to participate in various poojas and rituals, seeking the divine blessings of Lord Mutturaman. The temple also hosts vibrant festivals that draw large crowds, especially during special occasions and religious events."],
+    "image": [
+      "temples/t119-b.jpg", 
+      "temples/t119-c.jpg"],
+    "location" : "Thovalai, Tamil Nadu 629302",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.23630971946253, 77.50419980319612",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "5:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

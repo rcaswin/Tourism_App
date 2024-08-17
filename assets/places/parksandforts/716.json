@@ -1,0 +1,20 @@
+{
+    "name": "Sunset View Point",
+      "description": ["The Sunset View Point in Kanyakumari, Tamil Nadu, India, is a renowned spot offering breathtaking views of the Arabian Sea where visitors can witness stunning sunsets. Located at the southernmost tip of the Indian subcontinent, this viewpoint is famous for its panoramic vistas and the unique phenomenon of witnessing the sun set over the confluence of the Arabian Sea, Indian Ocean, and Bay of Bengal. It's a popular destination for tourists and locals alike, providing a serene setting to admire nature's beauty and capture memorable moments against the backdrop of the sea."],
+      "image": [
+        "parksandforts/716-a.jpg", 
+        "parksandforts/716-b.jpg", 
+        "parksandforts/716-c.jpg"],
+      "location" : "3HH2+55F, Kanniyakumari, Tamil Nadu",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.096398707290897, 77.54780184462484",
+     
+      "visitingtime": {
+        "starttime": "12:00 AM",
+        "closingtime": "12:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]  
+}

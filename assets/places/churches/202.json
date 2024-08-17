@@ -1,0 +1,19 @@
+{
+    "name": "Christ The King Church",
+    "description": ["Christhu Nagar Parish is located at the heart of the Christhu Nagar, fragrant with divine blessings. This church is part of the Kottar Diocese in the city of Nagercoil. During the festival time, at morning, there is Prayer Mass and at evening there is Holy Mass. The final day of the festival, in evening, Thanks offering Holy Mass, followed by Flag lowering and cultural programs."],
+    "image": [
+      "churches/202-a.jpg", 
+      "churches/202-b.jpg", 
+      "churches/202-c.jpg"],
+    "location" : "Christu Nagar Road, Nagercoil, Tamil Nadu 629001",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.18968929370778, 77.41781114603654",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "10:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

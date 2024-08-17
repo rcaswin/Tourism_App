@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Aadhikesava Perumal Temple",
+      "category" : "temples",
+      "latitude": 8.330481547062146, 
+      "longitude": 77.2662721757204
+    },
+    {
+      "name": "Agastheeswaramudaiya Nayinaar Temple",
+      "category" : "temples",
+      "latitude": 8.098570711602394, 
+      "longitude": 77.52383184553311
+    },
+    {
+      "name": "Alagamman Temple",
+      "category" : "temples",
+      "latitude": 8.182257364732392, 
+      "longitude": 77.43974080421472
+    },
+    {
+      "name": "Alageshwari Jayanteeswarar Temple",
+      "category" : "temples",
+      "latitude": 8.35662934301713, 
+      "longitude": 77.49199246990027
+    },
+    {
+      "name": "Chothavillai Beach",
+      "category" : "beaches",
+      "latitude": 8.093365693964849, 
+      "longitude": 77.45544320920072
+    }
+]
+  

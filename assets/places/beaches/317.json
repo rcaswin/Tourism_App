@@ -1,0 +1,15 @@
+{
+    "name": "Leepuram Beach",
+    "description": [
+        "Leepuram Beach is a serene and picturesque beach located in Kanyakumari, Tamil Nadu. Known for its calm environment and scenic beauty, Leepuram Beach is an ideal spot for a peaceful retreat. The beach offers a quiet escape from the hustle and bustle, making it perfect for relaxation and leisurely activities."
+    ],
+    "image": [
+        "beaches/317-a.jpg",
+        "beaches/317-b.jpg",
+        "beaches/317-c.jpg",
+        "beaches/317-d.jpg"
+    ],
+    "location": "Leepuram, Kanniyakumari, Tamil Nadu, 629702, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.111830398862384, 77.55717862653866"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Azhagappapuram Beach",
+    "description": [
+        "Azhagappapuram Beach is a serene and picturesque beach located in Kanyakumari, Tamil Nadu. Known for its tranquil environment and natural beauty, this beach offers a peaceful retreat for visitors. The pristine sands and clear waters make it an ideal spot for relaxation and leisurely activities."
+    ],
+    "image": [
+        "beaches/321-a.jpg",
+        "beaches/321-b.jpg",
+        "beaches/321-c.jpg"
+    ],
+    "location": "Azhagappapuram, Kanniyakumari, Tamil Nadu, 629401, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.1861, 77.4615"
+}

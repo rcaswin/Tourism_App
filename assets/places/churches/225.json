@@ -1,0 +1,19 @@
+{
+    "name": "Sts. Peter & Paul Church",
+    "description": ["This church was dedicated to the catholic saints and the apostles of Jesus, Saint Paul and Saint Peter."],
+    "image": [
+      "churches/225-a.jpg", 
+      "churches/225-b.jpg",
+      "churches/225-c.jpg"],
+    "location" : "Kadiapattinam, Tamil Nadu 629252",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.132754343621118, 77.30553965461499",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

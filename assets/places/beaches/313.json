@@ -1,0 +1,15 @@
+{
+    "name": "Manakudy Beach",
+    "description": [
+        "Manakudy Beach is located near the Manakudy estuary in Kanyakumari, Tamil Nadu. This beach is known for its natural beauty and the unique ecosystem formed by the merging of the river and the sea. It offers a serene and peaceful environment, making it an ideal spot for nature lovers and those looking to escape the crowds."
+    ],
+    "image": [
+        "beaches/313-a.jpg",
+        "beaches/313-b.jpg",
+        "beaches/313-c.jpg",
+        "beaches/313-d.jpg"
+    ],
+    "location": "Manakudy, Kanniyakumari, Tamil Nadu, 629602, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.091275026271175, 77.47034149939422"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "St.Lucia's Church",
+    "description": ["Lot of devotees come and pray to saint Lucia.The new church was opened in 2022 which has the largest catholic church dome in Asia."],
+    "image": [
+      "churches/214-a.jpg", 
+      "churches/214-b.jpg",
+      "churches/214-c.jpg"],
+    "location" : "Puthoor, Tamil Nadu 629252",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.160550772218686, 77.28221784748995",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

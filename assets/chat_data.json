@@ -1,0 +1,25 @@
+{
+    "chat": [
+      {
+        "message": "Hi! How can I help you?",
+        "options": ["Option 1", "Option 2","Option 3"]
+      },
+      {
+        "message": "You selected Option 2. What do you want to do next?",
+        "options": ["Sub-option 1", "Sub-option 2"]
+      },
+      {
+        "message": "You selected Sub-option 1. What's your preference?",
+        "options": ["Preference 1", "Preference 2"]
+      },
+      {
+        "message": "You selected Sub-option 2. Tell me more.",
+        "options": []
+      },
+      {
+        "message": "You selected Option 2. How can I assist you?",
+        "options": []
+      }
+    ]
+  }
+  

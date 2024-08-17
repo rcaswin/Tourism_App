@@ -1,0 +1,19 @@
+{
+    "name": "St. Antony's Church",
+    "description": ["This church was dedicated to St.Antony.It is the only church in kanniyakumari district,which is in Roman catholic diocese of Thoothukudi."],
+    "image": [
+      "churches/238-a.jpg", 
+      "churches/238-b.jpg",
+      "churches/238-c.jpg"],
+    "location" : "Azhagappapuram, Tamil Nadu 629169",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.146258714130774, 77.53974975416435",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Eco Park",
+    "description": [
+      "Stepping through the grand entrance, you'll find yourself in a majestic waterfall. If you cross the small wooden bridge, Nature will startle you with its beauty all around. There's a special space dedicated to kids to have fun inside the park.The play area is conveniently sized, complete with fun rides to keep your kids occupied outdoors. Parental supervision is made easy with the concrete seating that encircles the site - they can simply take a seat and watch their little ones play to their heart's content.",
+      "The park is divided into sections dedicated to specific plant species, making it feel like it consists of smaller parks in one. For example, a bamboo garden, palm court, warm &amp; cold greenhouses, and many more."
+    ],
+    "image": [
+      "ecotourism/502-a.jpg",
+      "ecotourism/502-b.jpg",
+      "ecotourism/502-c.jpg",
+      "ecotourism/502-d.jpg",
+      "ecotourism/502-e.jpg"
+    ],
+    "location": "Kanyakumari, Tamil Nadu, 629702, India.",
+    "categorycodes": "ecotourism",
+    "latlongvalue": "8.105192783254033, 77.53892622449482",
+    "entryfee" : [
+        "₹20 - Per person for Adults",
+        "₹10 - Per person for Kids"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Eco Park",
+      "description": ["Kanyakumari Eco Park, nestled in the southernmost tip of India, offers a serene coastal experience with lush greenery and panoramic views of the Arabian Sea. It features walking trails, viewpoints, and a variety of native flora. The park emphasizes conservation and environmental education, making it an ideal spot for nature enthusiasts and tourists seeking tranquility amidst natural beauty and cultural significance at the meeting point of three seas."],
+      "image": [
+        "parksandforts/709-a.jpg", 
+        "parksandforts/709-b.jpg", 
+        "parksandforts/709-c.jpg"],
+      "location" : "near, Pazhathoddam Eco park, Kanniyakumari, Tamil Nadu 629702",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.102453653338879, 77.54216602895946",
+     
+      "visitingtime": {
+        "starttime": "11:00 AM",
+        "closingtime": "07:30 PM"
+      },
+    "holiday": [
+      "Monday - Closed/Holiday"
+    ]  
+}

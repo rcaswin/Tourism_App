@@ -1,0 +1,19 @@
+{
+    "name": "St. Antony's Shrine - Vettumani",
+    "description": ["Vettuvenni St. Antony’s Shrine is situated near the bank of Thambiraparani River. It is surrounded by beautiful trees and plants with cool climate for people to come and go. It is on the side of Kanyakumari-Trivandrum National Highway. From Vettuvenni the shrine is linked with a small road. It was as old as the time of Martyr Devasahayampillai"],
+    "image": [
+      "churches/222-a.jpg", 
+      "churches/222-b.jpg",
+      "churches/222-c.jpg"],
+    "location" : "Marthandam, Tamil Nadu 629165",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.312181808805855, 77.20997817453176",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

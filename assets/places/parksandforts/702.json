@@ -1,0 +1,26 @@
+
+{
+  "name": "Government Museum",
+    "description": ["A visit to the Government Museum in Kanyakumari is all-important if one would like to experience more about the rich history of the region. The museum is the home of a lot of rock carvings and fantastic statues, like the 9th-century Tamil poet Manikkavacakar and Alwar. Government Museum in Kanyakumari located close to the Tourist Office, Beach Road, Kanyakumari district is a multipurpose museum administrated by the Government of Tamil Nadu.The Government Museum exhibits stupefying wooden sculptures, botanical specimens, tribal items, bronzes, antique coins, zoological specimens and so on. The Kanyakumari museum also displays horny material from the upper jaws of certain whales (used as the ribs of fans or as stays in corsets) from the Panchayat town of Manavalakurichi in the territorial dominion. Furthermore, people who visit this museum can also witness the showings which include an assorted array of interests such as anthropology, archeology, numismatology, stamp collection, phytology, zoological science and geology."],
+    "image": [
+      "parksandforts/702-a.jpg", 
+      "parksandforts/702-b.jpg", 
+      "parksandforts/702-c.jpg"],
+    "location" : "3HH2+X28, Beach Rd, Kanyakumari, Tamil Nadu 629702",
+    "categorycodes": "parksandforts",
+    "districtcode": "30",
+    "latlongvalue": "8.079931437838695, 77.55007190798433",
+   
+    "visitingtime": {
+      "starttime": "09:30 AM",
+      "closingtime": "05:00 PM"
+    },
+  "holiday": [
+    "Open All Days"
+  ],
+  "entryfee" : [
+    "Kids : ₹ 3",
+    "Adult : ₹ 5",
+    "Foreigner : ₹ 100"
+  ]
+}

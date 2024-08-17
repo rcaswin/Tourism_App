@@ -1,0 +1,19 @@
+{
+    "name": "Holy Trinity Cathedral",
+    "description": ["This church is the capital church for the catholic diocese of kuzhithurai.It has the seat for the bishop and the diocesian evennts occur here."],
+    "image": [
+      "churches/221-a.jpg", 
+      "churches/221-b.jpg",
+      "churches/221-c.jpg"],
+    "location" : "Kuzhithurai, Tamil Nadu 629163",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.322725978286442, 77.19488040017198",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

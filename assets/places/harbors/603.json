@@ -1,0 +1,19 @@
+{
+    "name": "Muttom Fishing Harbour",
+    "description": ["A harbor is a sheltered body of water where ships, boats, and barges can be docked. Harbor and port are often used interchangeably when referring to a man-made facility that is used for the loading & unloading of vessels, as well as managing disembarkment & embarkment of passengers. Ports are often characterized by the presence of one or more harbors which allow for a safe and secure docking of ships."],
+    "image": [
+      "harbors/603-a.jpg", 
+      "harbors/603-b.jpg", 
+      "harbors/603-c.jpg"],
+    "location" : "48CM+Q2Q, Muttom East Break Water, Ganapathipuram, Tamil Nadu 629202",
+    "categorycodes": "harbours",
+   
+    "latlongvalue": "8.124738791405639, 77.32775665125551",
+
+    "holiday": [
+      "Open All Days"
+    ],
+    "entryfee" : [
+        "Free"
+    ]
+  }

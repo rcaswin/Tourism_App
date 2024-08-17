@@ -1,0 +1,31 @@
+{
+    "name": "Padmanabhapuram Palace",
+    "description": ["Padmanabhapuram Palace, also known as Kalkulam Palace, is a Travancore-era palace located in Padmanabhapuram in the Kanyakumari district of the Indian state of Tamil Nadu. The palace is owned, controlled and maintained by the government of the neighbouring state of Kerala. Padmanabhapuram is the former capital city of the erstwhile Hindu kingdom of Travancore. It is around 20 km from Nagercoil, 39 km from Kanyakumari town and 52 km from Thiruvananthapuram in Kerala.[1] The palace is complex inside with an old granite fortress around four kilometers long. The palace is located at the foot of the Veli Hills, part of the Western Ghats. The river Valli flows nearby.The palace was constructed around 1601 CE by Iravi Varma Kulasekhara Perumal who ruled Venad between 1592 and 1609. The founder of modern Travancore, King Anizham Thirunal Marthanda Varma (1706–1758) who ruled Travancore from 1729 to 1758, rebuilt the palace in around 1750. King Marthaanda Varma dedicated the kingdom to his family deity Sree Padmanabha, a form of Lord Vishnu and ruled the kingdom as Padmanabha dasa or servant of Lord Padmanabha. Hence the name Padmanabhapuram or City of Lord Padmanabha. In the late 18th century, precisely in 1795 the capital of Travancore was shifted from here to Thiruvananthapuram, and the place lost its former glory. However, the palace complex continues to be one of the best examples of traditional Kerala architecture, and some portions of the sprawling complex are also the hallmark of traditional Kerala style architecture. The Palace though surrounded entirely by the State of Tamil Nadu is still part of Kerala and the land and Palace belongs to the Government of Kerala. This Palace is maintained by the Govt. of Kerala Archaeology Department."],
+    "image": [
+      "ecotoursim/526-a.jpg", 
+      "ecotoursim/526-b.jpg",
+      "ecotoursim/526-c.jpg",
+      "ecotoursim/526-d.jpg",
+      "ecotoursim/526-e.jpg",
+      "ecotoursim/526-f.jpg",
+      "ecotoursim/526-g.jpg",
+      "ecotoursim/526-h.jpg",
+      "ecotoursim/526-i.jpg",
+      "ecotoursim/526-j.jpg",
+      "ecotoursim/526-k.jpg"],
+    "location" : "782G+7M Thuckalay, Tamil Nadu",
+    "categorycodes": "Palace",
+    "latlongvalue": "8.250782540423373, 77.32658157130989",
+    "visitingtime": {
+        "Tuesday": "9am–12:30pm, 2pm–4:30pm",
+        "Wednesday": "9am–12:30pm, 2pm–4:30pm",
+        "Thursday": "9am–12:30pm, 2pm–4:30pm",
+        "Friday": "9am–12:30pm, 2pm–4:30pm",
+        "Saturday": "9am–12:30pm, 2pm–4:30pm",
+        "Sunday": "9am–12:30pm, 2pm–4:30pm"
+        },
+      
+    "holiday": [
+      "Monday"
+    ]
+}

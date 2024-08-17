@@ -1,0 +1,19 @@
+{
+    "name": "St.Antony's Shrine Periyakadu",
+    "description": ["In 1700 the church was established by the francisian priests who were came for ministry. The people of surroundings has relieved from severe chlorea by praying to Saint Antony.The current church was built in 2000 and this parish was upgraded as Shrine of the diocese of kottar in 2020.Lot of Devotees from Tamilnadu and Kerala come to this church.Every Tuesday has special masses and novena for St.Antony "],
+    "image": [
+      "churches/213-a.jpg", 
+      "churches/213-b.jpg",
+      "churches/213-c.jpg"],
+    "location" : "Periyakadu, Tamil Nadu 629501",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.112262555897702, 77.3883157612102",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Chittar Dam –II",
+    "description": ["Chittar Dam –II Dam is located about 58 kilometers away from kanniyakumari. Chittar Dam –II is one of the important Tourist Place in Kanniyakumari District. This Dam is one of the earthern dam. It  was constructed during the year 1964- 1969. The total capacity of the dam 28.57 m.cum and the length of earthern dam is 1134 mtre.The reservor gets water in both north   east mansoon and southwest monsoon.   Because of climate, this area will always  very pleasant for the tourists. This dam is situated in the Western Ghat range, the   tourist are very much attracted by the  natural climate and the beauty of the area"],
+    "image": [
+      "ecotoursim/518-a.jpg", 
+      "ecotoursim/518-b.jpg",
+      "ecotoursim/518-c.jpg",
+      "ecotoursim/518-d.jpg"],
+    "location" : "C7M2+F5Q,Alancholai, Tamil Nadu 629101",
+    "categorycodes": "Dam",
+    "latlongvalue": "8.43167106377679, 77.24410327396302",
+    "visitingtime": {
+        "starttime": "09:00 AM",
+        "closingtime": "05:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

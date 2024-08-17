@@ -1,0 +1,29 @@
+{
+    "name": "Arulmigu Sridevi Bhudevi Sametha Emperumal Temple",
+    "description": ["Arulmigu Sridevi Bhudevi Sametha Emperumal Temple is a sacred Hindu temple dedicated to Lord Vishnu, worshipped here as Emperumal, along with his consorts Sridevi and Bhudevi. The temple is an important religious site known for its traditional Dravidian architecture and serene surroundings. Devotees visit the temple to seek the blessings of Lord Vishnu, Sridevi, and Bhudevi for health, prosperity, and spiritual well-being. The temple conducts regular poojas and rituals with great devotion, attracting worshippers who come to experience the divine presence and participate in the religious ceremonies. The temple is especially vibrant during Vaikunta Ekadasi and other significant festivals."],
+    "image": [
+      "temples/t128-b.jpg"],
+    "location" : "Near Anthirapuram, Azhakiapandipuram P.O, Chiramadam, Tamil Nadu 629851",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.290493309234678, 77.41964653588305",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

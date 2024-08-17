@@ -1,0 +1,16 @@
+{
+    "name": "Marunthu Kottai",
+    "description": ["Marunthu Kottai is an ancient Fort located in Kanyakumari District of Tamilnadu. The Fort of Medicine, walkable distance from Marunthu Kottai Bus Stop.This fort was used to treat the wounded soldiers, to manufacture and store the gunpowder. It was built during the reign of the King Bala Marthanda Varma (1729-1758) by his illustrious European General, Delaney (1715-1777). It is located on the hillock at a height of 895 feet from the sea level. The fort has an entrance on the eastern side with a granite frame. There was an inscription on the large door, measuring about 5 feet in height and 3 feet in width. Inside the fort there was a stone mandapam measuring 15 X 10 X 8 feet. Today all these were in ruins. Wild growth of trees and its ramifying roots have done great damage to the fort walls and the mandapam.From this fort, one can see the enchanting natural scenery of Padmanabhapuram. The structural details of the fort indicated that this was one of the active forts during the time of Venadu Kings. The Fort is located at a walkable distance from Marunthu Kottai Bus Stop and 43 Kms from Kanyakumari."],
+    "image": [
+      "ecotoursim/533-a.jpg", 
+      "ecotoursim/533-b.jpg",
+      "ecotoursim/533-c.jpg",
+      "ecotoursim/533-d.jpg"],
+    "location" : "786F+R9, Vilavur, Tamil Nadu 629175.",
+    "categorycodes": "Fort",
+    "latlongvalue": "8.262262728285556, 77.32341548435909",
+    "visitingtime":"Open 24 hours",
+    "holiday": [
+      "Open All Days"
+    ]
+}

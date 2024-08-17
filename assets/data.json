@@ -1,0 +1,165 @@
+{
+  "responses": [
+    {
+      "keywords": [
+        "hi",
+        "hello",
+        "hey",
+        "hi there"
+      ],
+      "response": "Hello! How can I assist you today?"
+    },
+    {
+      "keywords": [
+        "goodbye",
+        "bye",
+        "see you later"
+      ],
+      "response": "Goodbye! Have a great time exploring Kanyakumari."
+    },
+    {
+      "keywords": [
+        "thank you",
+        "thanks",
+        "thanks a lot"
+      ],
+      "response": "You're welcome! If you have more questions, feel free to ask."
+    },
+    {
+      "keywords": [
+        "tell me about places",
+        "what are the famous places in Kanyakumari?",
+        "places to visit"
+      ],
+      "response": "Kanyakumari has some amazing places to visit. Some of the popular ones are Vivekananda Rock Memorial, Thiruvalluvar Statue, Kanyakumari Beach, and Padmanabhapuram Palace."
+    },
+    {
+      "keywords": [
+        "tell me about Vivekananda Rock Memorial",
+        "what's special about Vivekananda Rock?",
+        "Vivekananda Rock Memorial details"
+      ],
+      "response": "Vivekananda Rock Memorial is a significant attraction. It's located on a small island and is dedicated to Swami Vivekananda. You can visit the meditation hall and enjoy the breathtaking views of the sea."
+    },
+    {
+      "keywords": [
+        "opening hours of Vivekananda Rock",
+        "how to reach Vivekananda Rock",
+        "tell me about Vivekananda Rock timings"
+      ],
+      "response": "Vivekananda Rock Memorial is open from 8:00 AM to 4:00 PM. You can reach there by taking a ferry from Kanyakumari Beach."
+    },
+    {
+      "keywords": [
+        "bus routes to Vivekananda Rock",
+        "bus timings to Vivekananda Rock",
+        "how to reach Vivekananda Rock by bus"
+      ],
+      "response": "You can take a local bus to reach Kanyakumari Beach, from where you can catch a ferry to Vivekananda Rock Memorial."
+    },
+    {
+      "keywords": [
+        "Vivekananda Rock Memorial helpline",
+        "emergency contact for Vivekananda Rock",
+        "Vivekananda Rock assistance"
+      ],
+      "response": "For assistance at Vivekananda Rock Memorial, you can contact the tourist helpline at +91-XXXXXXXXXX."
+    },
+    {
+      "keywords": [
+        "tell me about Thiruvalluvar Statue",
+        "what's special about Thiruvalluvar Statue?",
+        "Thiruvalluvar Statue details"
+      ],
+      "response": "The Thiruvalluvar Statue is a grand statue of the Tamil poet and philosopher Thiruvalluvar. It stands tall in the sea and is a symbol of wisdom. You can take a ferry to get a closer look."
+    },
+    {
+      "keywords": [
+        "opening hours of Thiruvalluvar Statue",
+        "how to reach Thiruvalluvar Statue",
+        "tell me about Thiruvalluvar Statue timings"
+      ],
+      "response": "Thiruvalluvar Statue is open from 9:00 AM to 5:00 PM. You can visit it by taking a ferry from Kanyakumari Beach."
+    },
+    {
+      "keywords": [
+        "bus routes to Thiruvalluvar Statue",
+        "bus timings to Thiruvalluvar Statue",
+        "how to reach Thiruvalluvar Statue by bus"
+      ],
+      "response": "You can reach Thiruvalluvar Statue by taking a local bus to Kanyakumari Beach, and then a ferry to the statue."
+    },
+    {
+      "keywords": [
+        "Thiruvalluvar Statue helpline",
+        "emergency contact for Thiruvalluvar Statue",
+        "Thiruvalluvar Statue assistance"
+      ],
+      "response": "For assistance at Thiruvalluvar Statue, you can contact the tourist helpline at +91-XXXXXXXXXX."
+    },
+    {
+      "keywords": [
+        "tell me about Kanyakumari Beach",
+        "what's special about Kanyakumari Beach?",
+        "Kanyakumari Beach details"
+      ],
+      "response": "Kanyakumari Beach is a beautiful coastal destination where you can witness the mesmerizing sunrise and sunset. It's a great place for a leisurely stroll."
+    },
+    {
+      "keywords": [
+        "opening hours of Kanyakumari Beach",
+        "how to reach Kanyakumari Beach",
+        "tell me about Kanyakumari Beach timings"
+      ],
+      "response": "Kanyakumari Beach is open from 5:00 AM to 8:00 PM. It's easily accessible from the city center and various hotels."
+    },
+    {
+      "keywords": [
+        "bus routes to Kanyakumari Beach",
+        "bus timings to Kanyakumari Beach",
+        "how to reach Kanyakumari Beach by bus"
+      ],
+      "response": "You can take a local bus to reach Kanyakumari Beach, which is well-connected within the city."
+    },
+    {
+      "keywords": [
+        "Kanyakumari Beach helpline",
+        "emergency contact for Kanyakumari Beach",
+        "Kanyakumari Beach assistance"
+      ],
+      "response": "For assistance at Kanyakumari Beach, you can contact the tourist helpline at +91-XXXXXXXXXX."
+    },
+    {
+      "keywords": [
+        "tell me about Padmanabhapuram Palace",
+        "what's special about Padmanabhapuram Palace?",
+        "Padmanabhapuram Palace details"
+      ],
+      "response": "Padmanabhapuram Palace is an exquisite wooden palace known for its architectural beauty. It offers a glimpse into the region's history and culture."
+    },
+    {
+      "keywords": [
+        "opening hours of Padmanabhapuram Palace",
+        "how to reach Padmanabhapuram Palace",
+        "tell me about Padmanabhapuram Palace timings"
+      ],
+      "response": "Padmanabhapuram Palace is open from 9:00 AM to 4:30 PM. It's easily accessible by road from Kanyakumari."
+    },
+    {
+      "keywords": [
+        "bus routes to Padmanabhapuram Palace",
+        "bus timings to Padmanabhapuram Palace",
+        "how to reach Padmanabhapuram Palace by bus"
+      ],
+      "response": "You can reach Padmanabhapuram Palace by taking a local bus to Thuckalay, and then a short taxi ride to the palace."
+    },
+    {
+      "keywords": [
+        "Padmanabhapuram Palace helpline",
+        "emergency contact for Padmanabhapuram Palace",
+        "Padmanabhapuram Palace assistance"
+      ],
+      "response": "For assistance at Padmanabhapuram Palace, you can contact the tourist helpline at +91-XXXXXXXXXX."
+    }
+  ]
+}

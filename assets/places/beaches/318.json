@@ -1,0 +1,15 @@
+{
+    "name": "Rajakkamangalam Thurai Beach",
+    "description": [
+        "Rajakkamangalam Thurai Beach is a lesser-known beach located near Kanyakumari, Tamil Nadu. It is known for its peaceful and serene environment, making it an ideal destination for those seeking solitude and natural beauty. The beach is characterized by its clean sands and calm waters, offering a perfect setting for relaxation and leisurely activities."
+    ],
+    "image": [
+        "beaches/318-a.jpg",
+        "beaches/318-b.jpg",
+        "beaches/318-c.jpg",
+        "beaches/318-d.jpg"
+    ],
+    "location": "Rajakkamangalam Thurai, Kanniyakumari, Tamil Nadu, 629502, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.11632720823441, 77.37771083947469"
+}

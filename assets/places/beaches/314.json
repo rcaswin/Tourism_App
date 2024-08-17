@@ -1,0 +1,15 @@
+{
+    "name": "Enayam Beach",
+    "description": [
+        "Enayam Beach is a serene and picturesque beach located in Kanyakumari, Tamil Nadu. Known for its pristine sands and tranquil environment, Enayam Beach is an ideal destination for those seeking a peaceful and relaxing escape. The beach is less crowded, offering visitors a chance to enjoy the natural beauty and calm waters undisturbed."
+    ],
+    "image": [
+        "beaches/314-a.jpg",
+        "beaches/314-b.jpg",
+        "beaches/314-c.jpg",
+        "beaches/314-d.jpg"
+    ],
+    "location": "Enayam, Kanniyakumari, Tamil Nadu, 629193, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.217699476748603, 77.18776301388995"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Avvaiyar Amman Temple, Thalakudy",
+    "description": ["Avvaiyar Amman Temple in Thalakudy is a renowned temple dedicated to Avvaiyar Amman, who is venerated as a symbol of wisdom and literary excellence in Tamil culture. Avvaiyar, a revered Tamil poetess, is considered a divine figure, and this temple celebrates her legacy and spiritual influence. The temple is an important cultural and religious center, attracting devotees who seek blessings for knowledge, creativity, and spiritual growth. The temple's architecture is traditional, featuring elements that reflect the rich heritage of Tamil Nadu. Festivals and special poojas held at the temple, particularly during Avvaiyar's birth anniversary, draw large crowds of devotees and scholars."],
+    "image": [
+      "temples/t123-b.jpg", 
+      "temples/t123-c.jpg"],
+    "location" : "Thalakudy, Kanyakumari District, Tamil Nadu",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.247411942631539, 77.46815338053796",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

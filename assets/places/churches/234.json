@@ -1,0 +1,19 @@
+{
+    "name": "St. Joseph's Church",
+    "description": ["This church was dedicated to St.Joseph.It was the place once the seminary was established.It is one of the oldest churches in the kottar diocese."],
+    "image": [
+      "churches/234-a.jpg", 
+      "churches/234-b.jpg",
+      "churches/234-c.jpg"],
+    "location" : "Pillaithoppu, Tamil Nadu 629202",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.128236552785852, 77.33548707422278",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

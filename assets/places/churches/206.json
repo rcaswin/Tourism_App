@@ -1,0 +1,19 @@
+{
+    "name": "Salvation Army Nagercoil",
+    "description": ["Founded in London, The Salvation Army (TSA) is a Protestant church that works to serve the global community through charitable outreach initiatives. The organisation reports a worldwide membership of over 1.7 million, comprising soldiers, officers and adherents collectively known as Salvationists.The founders of this organization went beyond just providing financial and food aid, aiming to help the poor, destitute and hungry by addressing their physical as well as spiritual needs. Across 132 countries, this organization helps those in need. From running charity shops and providing homeless people with shelters to delivering disaster relief and offering humanitarian aid in developing countries, the contributions of this organization are invaluable.  The Salvation Army follows the same theology as Methodism, though its institution and practices are distinct from it. The Salvation Army stands out for using titles that are inspired by military ranks like lieutenant and major. This is a unique trait of the organization when compared to others.This faith does not recognize the ceremonies of Baptism and Holy Communion. Nonetheless, the Army's dogma/beliefs resemble those of other holiness churches in the Wesleyan-Arminian tradition. The Army's purposes are the advancement of the Christian religion... of education, the relief of poverty, and other charitable objects beneficial to society or the community of mankind as a whole.  The Army was founded in 1865 in London by one-time Methodist preacher William Booth and his wife Catherine as the East London Christian Mission and can trace its origins to the Blind Beggar tavern. In 1878, Booth revolutionised the mission by becoming its first General and introducing a military structure that has been kept as an honourable tradition. Its highest priority is its Christian principles.The Salvation Army is currently headed by General Brian Peddle, who was officially appointed to the position of CEO on August 3, 2018 by the High Council. He will be leading and providing guidance to the organization in its international mission."],
+    "image": [
+      "churches/206-a.jpg", 
+      "churches/206-b.jpg", 
+      "churches/206-c.jpg"],
+    "location" : "47, Vetturnimadam, Nagercoil, Tamil Nadu 629502",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.191407551322785, 77.41802041447501",
+    "visitingtime": {
+      "starttime": "06:00 AM",
+      "closingtime": "09:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

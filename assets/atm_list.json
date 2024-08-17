@@ -1,0 +1,710 @@
+[
+    {
+      "name": "State Bank of India ATM",
+      "address": "Aralvaimozhi, Nagercoil Aralvaymozhi Kavalkinaru Road, Tamilnadu 629301",
+      "contact": "1800112211",
+      "latitude": 8.251717756743222,
+      "longitude": 77.52512006081508
+    },
+    {
+      "name": "Indicash ATM",
+      "address": "Vellamadam, Nagercoil Aralvaymozhi Kavalkinaru Road, 629305",
+      "contact": "09487450087",
+      "latitude": 8.213762748594537, 
+      "longitude": 77.46406351291492
+    },
+    {
+      "name": "IOB ATM",
+      "address": "4F74+85R, Thengamputhur to Pallam Rd, Thengamputhur, Tamil Nadu 629602",
+      "contact": "NA",
+      "latitude": 8.117107145248466,  
+      "longitude": 77.45533905068771
+    },
+    {
+      "name": "State Bank Of India ATM",
+      "address": "4C5H+VMG, Melakrishnanputhur, Tamil Nadu 629601",
+      "contact": "1800112211",
+      "latitude": 8.11281976528519,
+      "longitude":  77.42886887335611
+    },
+    {
+      "name": "ATM Indian Bank",
+      "address": "6/78, Kodimunai Vaniyakudi Rd Simon Colony, Kodimunai Vaniyakudi Rd, Simon Colony, Panavilai, Colachel, Tamil Nadu 629251",
+      "contact": "NA",
+      "latitude": 8.175504724546968, 
+      "longitude":  77.25002725299711
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "Colachel, Tamil Nadu 629251",
+      "contact": "1800112211",
+      "latitude": 8.179625185639606, 
+      "longitude": 77.25732286112209
+    },
+    {
+      "name": "HDFC Bank ATM",
+      "address": "No 67, 17/4, Cape Rd, Kanniyakumari, Tamil Nadu 629175",
+      "contact": "09426792009",
+      "latitude": 8.085240998849674,  
+      "longitude": 77.54935981115666
+    },
+    {
+      "name": "Union Bank of India ATM",
+      "address": "Kanyakumari, NH-7, Tirunelveli Nanguneri Vattakottai Kanyakumari Road, Kanyakumari, Kanniyakumari, Tamil Nadu 629702",
+      "contact": "1800222244",
+      "latitude": 8.09272407800276, 
+      "longitude": 77.5442874534857
+    },
+    {
+      "name": "SBI ATM",
+      "address": "5-111, Cape Rd, Kanniyakumari, Tamil Nadu 629702",
+      "contact": "1800112211",
+      "latitude":  8.089728664789247, 
+      "longitude": 77.54907251410886
+    },
+    {
+      "name": "Tamilnad Mercantile Bank ATM",
+      "address": "Rajakkamangalam, Kanyakumari, SH-179, Kanyakumari Pazhayauchakadai Road, Kanyakumari, Kanyakumari, Tamilnadu 629502",
+      "contact": "NA",
+      "latitude": 8.133970270564115,  
+      "longitude": 77.36423116804072
+    },
+    {
+      "name": "indian overseas bank ATM",
+      "address": "48RJ+W2X, Vellamodi, Tamil Nadu 629202",
+      "contact": "NA",
+      "latitude": 8.143762927404396, 
+      "longitude": 77.32993933667807 
+    },
+    {
+      "name": "Union Bank of India ATM",
+      "address": "St. Peter & Paul Church Premises, Kadiapattinam, Vellimalai, Tamil Nadu 629253",
+      "contact": "1800222244",
+      "latitude": 8.133902197017004,  
+      "longitude": 77.30557309009717
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "Manavalakurichy, Kanyakumari, SH-179, Kanyakumari Pazhayauchakadai Road, Kanyakumari, Kanyakumari, 629252",
+      "contact": "NA",
+      "latitude": 8.151065211776892,  
+      "longitude": 77.30480061394276
+    },
+    {
+      "name": "Indian Overseas Bank ATM",
+      "address": "48X4+M78, Market Rd, Manavalakurichi, Tamil Nadu 629252",
+      "contact": "NA",
+      "latitude":  8.150640393560272, 
+      "longitude": 77.30557309009717
+    },
+    {
+      "name": "IOB ATM",
+      "address": "4F74+85R, Thengamputhur to Pallam Rd, Thengamputhur, Tamil Nadu 629602",
+      "contact": "NA",
+      "latitude": 8.113929357817344,  
+      "longitude": 77.4551771223133
+    },
+    {
+      "name": "State Bank ATM",
+      "address": "4F74+RPC, Thengamputhur, Tamil Nadu 629602",
+      "contact": "NA",
+      "latitude": 8.115416355753727,  
+      "longitude": 77.45659332859638
+    },
+    {
+      "name": "Tamilnad Mercantile Bank ATM Kunjan Vilai",
+      "address": "4CVJ+XW3, Maniketti Pottal Post Kunjan Vilai,, Kunjan Vilai, Nagercoil, Tamil Nadu 629501",
+      "contact": "NA",
+      "latitude": 8.146262977421799, 
+      "longitude": 77.43230709902284 
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "572X+9JW, Manavalakurichi, Tamil Nadu 629252",
+      "contact": "1800112211",
+      "latitude": 8.15396471543476, 
+      "longitude":  77.29891623472372
+    },
+    {
+      "name": "Canara Bank A T M",
+      "address": "49CQ+7V2, Eathamozhi, Tamil Nadu 629501",
+      "contact": "NA",
+      "latitude": 8.124450334097554,  
+      "longitude": 77.390320241562 
+    },
+    {
+      "name": "Union Bank of India ATM",
+      "address": "St. Peter & Paul Church Premises, Kadiapattinam, Vellimalai, Tamil Nadu 629253",
+      "contact": "1800222244",
+      "latitude": 8.133456118760137, 
+      "longitude": 77.30501519162948 
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "Manavalakurichy, Kanyakumari, SH-179, Kanyakumari Pazhayauchakadai Road, Kanyakumari, Kanyakumari, 629252",
+      "contact": "NA",
+      "latitude": 8.150040162063632,  
+      "longitude": 77.30437130697139
+    },
+    {
+      "name": "indian overseas bank ATM",
+      "address": "48RJ+W2X, Vellamodi, Tamil Nadu 629202",
+      "contact": "na",
+      "latitude": 8.1432743775025, 
+      "longitude":  77.3303684910743
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "65RF+JP6, Marthandam-Thengapattanam Rd, Thengapattanam, Tamil Nadu 629173",
+      "contact": "1800112211",
+      "latitude": 8.242615448673629, 
+      "longitude": 77.17438717483797 
+    },
+    {
+      "name": "Vijaya Bank ATM",
+      "address": "65RF+5HF, Marthandam-Thengapattanam Rd, Thengapattanam, Tamil Nadu 629173",
+      "contact": "NA",
+      "latitude": 8.241128925094955, 
+      "longitude":77.17387219073504  
+    },
+    {
+      "name": "CANARA BANK ATM",
+      "address": "#1/93 AROCKIAPURAM JUNCTIONLEEPURAM629202, Agasteeswaram, Tamil Nadu 629702",
+      "contact": "18001030",
+      "latitude": 8.119947051065521, 
+      "longitude": 77.5520253844138
+    },
+    {
+      "name": "Axis Bank ATM",
+      "address": "AS Lodge Complex, No 7/45D1, Chennekothapalli Rd, Kanniyakumari, Anjugramam, Tamil Nadu 629401",
+      "contact": "18605005555",
+      "latitude": 8.155629196389883,  
+      "longitude": 77.57079417104471
+    },
+    {
+      "name": "Karur Vysya ATM",
+      "address": "4G5P+PXX, Kanniyakumari, Tamil Nadu 629702",
+      "contact": "NA",
+      "latitude": 8.116204596116143,  
+      "longitude": 77.53749186572121
+    },
+    {
+      "name": "CANARA BANK ATM",
+      "address": "MAIN ROAD, POST, Palappallam, Tamil Nadu 629159",
+      "contact": "18001030",
+      "latitude": 8.214418598082087, 
+      "longitude": 77.24710316969421 
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "66MV+7W2, SH 91, Karungal, Tamil Nadu 629157",
+      "contact": "1800112211",
+      "latitude": 8.237354459114243, 
+      "longitude": 77.24332661960598 
+    },
+    {
+      "name": "Indian Overseas Bank Atm",
+      "address": "3GMG+368, Kovalam, Tamil Nadu 629702",
+      "contact": "NA",
+      "latitude": 8.08418845120004, 
+      "longitude": 77.52615087782888 
+    },
+    {
+      "name": "SBI ATM",
+      "address": "Daniel Petroleum, Agasteeswaram, Tamil Nadu 629701",
+      "contact": "NA",
+      "latitude": 8.101554949186285,  
+      "longitude": 77.5175381832589
+    },
+    {
+      "name": "Indian Overseas Bank ATM",
+      "address": "4F4X+3P4, South Thamarai Kulam, Thenthamaraikulam, Tamil Nadu 629701",
+      "contact": "NA",
+      "latitude": 8.107273884362082, 
+      "longitude": 77.49890432401232 
+    },
+    {
+      "name": "State Bank ATM",
+      "address": "4F74+RPC, Thengamputhur, Tamil Nadu 629602",
+      "contact": "NA",
+      "latitude": 8.116208437641879, 
+      "longitude": 77.45710972078103
+    },
+    {
+      "name": "Tamilnad Mercantile Bank ATM",
+      "address": "Eathamozhi, Kanyakumari, SH-179, Kanyakumari Pazhayauchakadai Road, Kanyakumari, Kanyakumari, 629702",
+      "contact": "NA",
+      "latitude": 8.121011713664824,  
+      "longitude": 77.38927005143816
+    },
+    {
+      "name": "TATA Indicash ATM",
+      "address": "4C73+V5C, JN, Puthoor, Panavilai, Dharmapuram, Tamil Nadu 629501",
+      "contact": "NA",
+      "latitude": 8.11548862765374,  
+      "longitude": 77.40265963811463
+    },
+    {
+      "name": "CANARA BANK ATM",
+      "address": "#7/36 & 37 EATHAMOZHY ROAD SOUTH, North Soorankudy, Agasteeswaram, Tamil Nadu 629501",
+      "contact": "18001030",
+      "latitude": 8.130192975545125, 
+      "longitude": 77.40355032231331 
+    },
+    {
+      "name": "State Bank Of India & ATM",
+      "address": "659Q+36M, Enayam, Tamil Nadu 629193",
+      "contact": "1800112211",
+      "latitude": 8.225369270753056,  
+      "longitude": 77.18666010124161
+    },
+    {
+      "name": "SBI ATM",
+      "address": "782G+F9G, Chakala, Thuckalay, Tamil Nadu 629175",
+      "contact": "1800112211",
+      "latitude": 8.253306649390302,  
+      "longitude": 77.32542981198846
+    },
+    {
+      "name": "Tamilnad Mercantile Bank ATM",
+      "address": "68V9+M2F, Thuckalay, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.247360682337643,  
+      "longitude": 77.31804837317964
+    },
+    {
+      "name": "CANARA BANK ATM",
+      "address": "D/NO:21-37, GROUND FLOOR, VASANTHAM BUILDING, Thuckalay, Tamil Nadu 629175",
+      "contact": "18001030",
+      "latitude": 8.248040225957336,  
+      "longitude":77.31770505044435 
+    },
+    {
+      "name": "South Indian Bank ATM",
+      "address": "68RF+PMR, National Highway 47, Thuckalay, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.245152157506157,
+      "longitude":  77.32405652104728 
+    },
+    {
+      "name": "HDFC Bank ATM",
+      "address": "No 15/331 Market Junction, opposite Canara Bank, Kanyakumari, Tamil Nadu 629161",
+      "contact": "09426792009",
+      "latitude": 8.362792637128877, 
+      "longitude": 77.33007071491807 
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "4G9G+V8P, road, Kottaram, Tamil Nadu 629703",
+      "contact": "1800112211",
+      "latitude": 8.12127239537214,  
+      "longitude": 77.52592530105447
+    },
+    {
+      "name": "Indian Overseas Bank",
+      "address": "4F4X+3PF, South Thamarai Kulam, Thenthamaraikulam, Tamil Nadu 629708",
+      "contact": "18004254445",
+      "latitude": 8.10658695726675,  
+      "longitude": 77.49954879009717
+    },
+    {
+      "name": "Federal Bank ATM",
+      "address": "Bombay Buildings, Sannithi St, Swamitopur, Tamil Nadu 629704",
+      "contact": "NA",
+      "latitude": 8.118483004016326,  
+      "longitude": 77.49139487513393
+    },
+    {
+      "name": "SBI ATM",
+      "address": "C725+582, Tamil Nadu 629101",
+      "contact": "1800112211",
+      "latitude": 8.401329173933542, 
+      "longitude": 77.25835612302197 
+    },
+    {
+      "name": "India1 ATM",
+      "address": "Kilathoor, Kaliyal, Kanyakumari, SH-45, Chennai Tiruttani Renigunta Road, Kanyakumari, Kanyakumari, 629101",
+      "contact": "NA",
+      "latitude": 8.401159354630602,  
+      "longitude": 77.25839903836389
+    },
+    {
+      "name": "Federal Bank ATM",
+      "address": "Sri Sarada Krishna Homeo Medical College, Thirparappu Road, Kulasekharam, Tamil Nadu 629161",
+      "contact": "04651277733",
+      "latitude": 8.386419727776367,  
+      "longitude": 77.24569367628754
+    },
+    {
+      "name": "HDFC Bank ATM",
+      "address": "No 15/331 Market Junction, opposite Canara Bank, Kanyakumari, Tamil Nadu 629161",
+      "contact": "09426792009",
+      "latitude": 8.356381271771266,  
+      "longitude": 77.3298132287295
+    },
+    {
+      "name": "CANARA BANK ATM",
+      "address": "4/58 MANGALAM, Ponmanai, Tamil Nadu 629161",
+      "contact": "18001030",
+      "latitude": 8.354682879183166,  
+      "longitude":77.33556388454569 
+    },
+    {
+      "name": "SBI ATM",
+      "address": "C725+582, Tamil Nadu 629101",
+      "contact": "1800112211",
+      "latitude": 8.407699477231159,  
+      "longitude": 77.25965438312399
+    },
+    {
+      "name": "bank of baroda ATM",
+      "address": "F623+2PC, Arattukuzhi Rd, Vellarada, Kerala 695505",
+      "contact": "NA",
+      "latitude": 8.460678589617961, 
+      "longitude": 77.20540939094755 
+    },
+    {
+      "name": "Indian Overseas Bank ATM",
+      "address": "Balamore Road, Kesavanputoor, Kanyakumari, SH-45, Aralvaimozhi Nedumangadu Road, Kanyakumari, Kanyakumari, 629851",
+      "contact": "NA",
+      "latitude": 8.300253342410134,  
+      "longitude": 77.4445792502132
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "Thittuvilai, Kanyakumari, SH-45, Aralvaimozhi Nedumangadu Road, Kanyakumari, Kanyakumari, 629852",
+      "contact": "1800112211",
+      "latitude": 8.268742447693587,  
+      "longitude": 77.43934357849997
+    },
+    {
+      "name": "India1 ATM",
+      "address": "Thittuvilai, Kanyakumari, SH-45, Aralvaimozhi Nedumangadu Road, Kanyakumari, Kanyakumari, 629852",
+      "contact": "NA",
+      "latitude": 8.274433281079158, 
+      "longitude": 77.4405452080735 
+    },
+    {
+      "name": "State Bank Atm",
+      "address": "86RV+QXR State Bank India, Chitharal Rd, Post, Vellamcode, Tamil Nadu 629151",
+      "contact": "NA",
+      "latitude": 8.343663386093521,  
+      "longitude": 77.24519895210726
+    },
+    {
+      "name": "India1 ATM",
+      "address": "Arumanai, Kanyakumari, SH-3, Chennai Tiruttani Renigunta Road, Kanyakumari, Kanyakumari, Tamilnadu 629157",
+      "contact": "NA",
+      "latitude": 8.35641289298976,  
+      "longitude": 77.2451792980457
+    },
+    {
+      "name": "Bank of Baroda ATM",
+      "address": "NO-23-111/1,2 D NOVAS ARK CONVENT JUNCTION KULASEKHARAMKANYAKUMARI, Tamil Nadu 629161",
+      "contact": "18002584455",
+      "latitude": 8.378642492924895, 
+      "longitude":  77.33448934399725
+    },
+    {
+      "name": "HDFC Bank ATM",
+      "address": "No 15/331 Market Junction, opposite Canara Bank, Kanyakumari, Tamil Nadu 629161",
+      "contact": "09426792009",
+      "latitude": 8.359621159711558,  
+      "longitude": 77.32796621202667
+    },
+    {
+      "name": "CANARA BANK ATM",
+      "address": "4/58 MANGALAM, Ponmanai, Tamil Nadu 629161",
+      "contact": "18001030",
+      "latitude": 8.36030050903216,  
+      "longitude": 77.33586263493842
+    },
+    {
+      "name": "State Bank Of India ATM",
+      "address": "M.k.road, Thiruvattar, 30-20-A,Santhinikethan, Kanyakumari, Tamil Nadu 629177",
+      "contact": "1800112211",
+      "latitude": 8.331682744323585, 
+      "longitude": 77.26967479659587 
+    },
+    {
+      "name": "HDFC Bank ATM",
+      "address": "No 15/331 Market Junction, opposite Canara Bank, Kanyakumari, Tamil Nadu 629161",
+      "contact": "09426792009",
+      "latitude": 8.356933247770222,  
+      "longitude": 77.32955573472378
+    },
+    {
+      "name": "ICICI Bank ATM",
+      "address": "Cape Road Nagercoil, Nagercoil, Tamil Nadu 629002",
+      "contact": "18601207777",
+      "latitude": 8.181646571644572,  
+      "longitude": 77.43694633522819
+    },
+    {
+      "name": "SBI ATM",
+      "address": "5FX2+VR9, Shunmuga Nagar Street, Therakalputhoor, Tamil Nadu 629901",
+      "contact": "1800112211",
+      "latitude": 8.203055182943373, 
+      "longitude": 77.4520525355811 
+    },
+    {
+      "name": "Federal Bank Cash Machine",
+      "address": "1 14 6 Athalavilai Road Kulasekaranputhur, Vellamadam, Tamil Nadu 629302",
+      "contact": "NA",
+      "latitude": 8.183175796343946,  
+      "longitude": 77.435573044287
+    },
+    {
+      "name": "Federal Bank Cash Machine",
+      "address": "Nellimoottil plaza, Arasumoodu Junction, Kulasekharam, Tamil Nadu 629161",
+      "contact": "NA",
+      "latitude":  8.378109286522983, 
+      "longitude": 77.29971899031254
+    },
+    {
+      "name": "ICICI Bank Atm",
+      "address": "160/2, Kavalstalam, Kulasekharam, Tamil Nadu 629161",
+      "contact": "18601207777",
+      "latitude": 8.376750648821627,  
+      "longitude": 77.30040563578312
+    },
+    {
+      "name": "India1 ATM",
+      "address": "Thummathoddu, Pechiparai, Kanyakumari, SH-90, Marthandam Pechiparai Road, Kanyakumari, Kanyakumari, 629101",
+      "contact": "NA",
+      "latitude": 8.39645043078969,  
+      "longitude": 77.29147924466547
+    },
+    {
+      "name": "Tamilnad Mercantile Bank ATM",
+      "address": "68V9+M2F, Thuckalay, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.245188587292718,  
+      "longitude": 77.31740415299713
+    },
+    {
+      "name": "SBI ATM",
+      "address": "68RC+GW6, Thuckalay, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.242130609750838,  
+      "longitude": 77.32212484060742
+    },
+{
+      "name": "ICICI Bank Atm",
+      "address": "10-96 Trivandrum Main Road Old bustand, Thuckalay, 629175",
+      "contact": "18601207777",
+      "latitude": 8.243914432857261,  
+      "longitude": 77.32645929014049
+    },
+    {
+      "name": "City Union Bank ATM",
+      "address": "23/8, 9 Angel Complex, Mettukadai, 629175, Thuckalay, Tamil Nadu",
+      "contact": "NA",
+      "latitude": 8.246207907884854, 
+      "longitude": 77.31427133303757 
+    },
+    {
+      "name": "SBI ATM",
+      "address": "5-111, Cape Rd, Kanniyakumari, Tamil Nadu 629702",
+      "contact": "1800112211",
+      "latitude": 8.09039977795171,  
+      "longitude": 77.54926757352493
+    },
+    {
+      "name": "HDFC Bank ATM",
+      "address": "No 67, 17/4, Cape Rd, Kanniyakumari, Tamil Nadu 629175",
+      "contact": "09426792009",
+      "latitude": 8.085641069468933, 
+      "longitude": 77.54965381160213 
+    },
+    {
+      "name": "Union Bank of India ATM",
+      "address": "3GRX+PQ2, Cape Rd, Vivekanandapuram, Kanniyakumari, Tamil Nadu 629702",
+      "contact": "1800222244",
+      "latitude": 8.09275486852117,  
+      "longitude": 77.54927245299712
+    },
+    {
+      "name": "Indigo ATM",
+      "address": "68QM+GQW, Padmanabhapuram, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.239758183706707,  
+      "longitude": 77.33438346833903
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "68PQ+573, Kumaracoil, Thuckalay, Salem - Kochi - Kanyakumari Hwy, Tamil Nadu 629180",
+      "contact": "1800112211",
+      "latitude": 8.23644532816127,  
+      "longitude": 77.33798835705961
+    },
+    {
+      "name": "India Post ATM",
+      "address": "68RC+JV3, Salem - Kochi - Kanyakumari Hwy, Thuckalay, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.242436949948592, 
+      "longitude":  77.32195802231327
+    },
+    {
+      "name": "HDFC Bank ATM",
+      "address": "2/23 B, Middle St, near Hotel Sona, Kanniyakumari, Tamil Nadu 629401",
+      "contact": "09426792009",
+      "latitude": 8.083180479467217,  
+      "longitude": 77.55069378652729
+    },
+    {
+      "name": "Union Bank of India ATM",
+      "address": "Kanyakumari, NH-7, Tirunelveli Nanguneri Vattakottai Kanyakumari Road, Kanyakumari, Kanniyakumari, Tamil Nadu 629702",
+      "contact": "1800222244",
+      "latitude": 8.093074603625778,  
+      "longitude": 77.54447437123666
+    },
+    {
+      "name": "SBI ATM",
+      "address": "5-111, Cape Rd, Kanniyakumari, Tamil Nadu 629702",
+      "contact": "1800112211",
+      "latitude": 8.090397854778763,  
+      "longitude": 77.54902339747929
+    },
+    {
+      "name": "Tamilnad Mercantile Bank ATM",
+      "address": "68WX+Q2M, Kumaracoil, Tamil Nadu 629301",
+      "contact": "NA",
+      "latitude": 8.248625987165095, 
+      "longitude": 77.34685335257512 
+    },
+    {
+      "name": "South Indian Bank ATM",
+      "address": "68RF+PMR, National Highway 47, Thuckalay, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.24402937133215,  
+      "longitude": 77.32396483667807
+    },
+    {
+      "name": "SBI ATM",
+      "address": "68RC+GW6, Thuckalay, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.244887952901848,  
+      "longitude": 77.32252817741293
+    },
+    {
+      "name": "CANARA BANK ATM",
+      "address": "D/NO:21-37, GROUND FLOOR, VASANTHAM BUILDING, Thuckalay, Tamil Nadu 629175",
+      "contact": "18001030",
+      "latitude": 8.24665247108469,  
+      "longitude": 77.3174764848898
+    },
+    {
+      "name": "CANARA BANK ATM",
+      "address": "PULANIVILAI ATTOOR, JUNCTION, Kalkulam, Tamil Nadu 629161",
+      "contact": "18001030",
+      "latitude": 8.326241581706517, 
+      "longitude": 77.25762532231327 
+    },
+    {
+      "name": "Indian overseas Bank ATM",
+      "address": "87G6+Q2W, Attoor, Thiruvattaru, Tamil Nadu 629177",
+      "contact": "NA",
+      "latitude": 8.32777024662193,  
+      "longitude": 77.25977108940884
+    },
+    {
+      "name": "CSB Bank ATM",
+      "address": "Mariya Ayurveda College, Barathapalli Road, Thiruvattaru, Tamil Nadu 629177",
+      "contact": "09072601377",
+      "latitude": 8.333035602293721,  
+      "longitude": 77.25856945983533
+    },
+    {
+      "name": "State Bank Of India ATM",
+      "address": "M.k.road, Thiruvattar, 30-20-A,Santhinikethan, Kanyakumari, Tamil Nadu 629177",
+      "contact": "1800112211",
+      "latitude": 8.327712489140177,  
+      "longitude": 77.26920708368094
+    },
+    {
+      "name": "CANARA BANK ATM",
+      "address": "D/NO:21-37, GROUND FLOOR, VASANTHAM BUILDING, Thuckalay, Tamil Nadu 629175",
+      "contact": "18001030",
+      "latitude": 8.250606232262855, 
+      "longitude": 77.31837072423211 
+    },
+    {
+      "name": "South Indian Bank ATM",
+      "address": "68RF+PMR, National Highway 47, Thuckalay, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.249586923013215, 
+      "longitude": 77.3248938562027 
+    },
+    {
+      "name": "Tamilnad Mercantile Bank ATM",
+      "address": "68WX+Q2M, Kumaracoil, Tamil Nadu 629301",
+      "contact": "NA",
+      "latitude": 8.253664144233708,  
+      "longitude": 77.34583654305563
+    },
+    {
+      "name": "SBI ATM",
+      "address": "68RC+GW6, Thuckalay, Tamil Nadu 629175",
+      "contact": "NA",
+      "latitude": 8.248567611134426,  
+      "longitude": 77.32180395158505
+    },
+    {
+      "name": "Axis Bank ATM",
+      "address": "Ground Floor Action Area, 1, Jagadishpur, West Bengal 700156",
+      "contact": "18605005555",
+      "latitude": 23.904723744506235,  
+      "longitude": 88.40318650201077
+    },
+    {
+      "name": "State Bank of India ATM",
+      "address": "Millenium Tower, Major Arterial Road(South-East), West Bengal 700156",
+      "contact": "18004253800",
+      "latitude": 24.065326511411904,  
+      "longitude": 88.31529588177551
+    },
+    {
+      "name": "CENTRAL BANK OF INDIA - ATM",
+      "address": "USHA BUILDING, Chunkankadai, Nagercoil, Tamil Nadu 629801",
+      "contact": "1800221911",
+      "latitude": 8.199605540380327,  
+      "longitude": 77.38254397036945
+    },
+    {
+      "name": "ICICI Bank ATM",
+      "address": "12/202, WC, Joshua St, Nagercoil, Tamil Nadu 629001",
+      "contact": "18601207777",
+      "latitude": 8.20147450766281,  
+      "longitude": 77.38323061584005
+    },
+    {
+      "name": "HDFC Bank ATM",
+      "address": "No 425, Ground Floor, M S Road Parvathipuram, Vetturnimadam, Nagercoil, Tamil Nadu 629003",
+      "contact": "09426792009",
+      "latitude": 8.204455534383968, 
+      "longitude": 77.41457401381405 
+    },
+    {
+      "name": "State Bank of India-ATM",
+      "address": "5CQ2+VQW, junction, near Parvathipuram, Parvathipuram, Nagercoil, Tamil Nadu 629003",
+      "contact": "1800112211",
+      "latitude": 8.209873084518742,  
+      "longitude": 77.40636360103531
+    },
+    {
+      "name": "Indicash ATM",
+      "address": "Rajakkamangalam, Kanyakumari, SH-179, Kanyakumari Pazhayauchakadai Road, Kanyakumari, Kanyakumari, Tamilnadu 629502",
+      "contact": "NA",
+      "latitude": 8.14061942675896,  
+      "longitude": 77.3670548921828
+    },
+    {
+      "name": "IOB ATM",
+      "address": "5952+7X8, Rajakkamangalam - Eraniel Rd, Peyodu, Tamil Nadu 629201",
+      "contact": "NA",
+      "latitude": 8.165768517768727,  
+      "longitude": 77.35160536909456
+    }
+]
+  

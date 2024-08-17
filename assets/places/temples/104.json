@@ -1,0 +1,31 @@
+{
+    "name": "Thiruvattar Adi Kesava Perumal Temple",
+    "description": ["Thiruvattar Adi Kesava Perumal Temple is an ancient temple dedicated to Lord Vishnu, located on the banks of the river Kothai. The temple is famous for its unique idol of Lord Vishnu reclining on the serpent Anantha. The architecture of the temple reflects the rich cultural heritage of the region, with elaborate carvings and murals depicting various deities and mythological scenes."],
+    "image": [
+      "temples/104-a.jpg", 
+      "temples/t104-b.jpg", 
+      "temples/t104-c.jpg"],
+    "location" : "Temple Road Kalkulam, Thiruvattaru, Tamil Nadu 629171",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.340582779848015, 77.26401815748757",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "5:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

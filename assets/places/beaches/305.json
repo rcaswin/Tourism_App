@@ -1,0 +1,16 @@
+{
+    "name": "Lemur Beach",
+    "description": [
+      "Located 32km away from Kanniyakumari, Lemur Beach is a stunningly gorgeous &amp; pristine shoreline. The water flow here comes from the Pechiparai Dam, passing through many fields before reaching the Arabian Sea. Its natural beauty has made it a popular destination for movie shooting."
+    ],
+    "image": [
+      "beaches/305-a.jpg",
+      "beaches/305-b.jpg",
+      "beaches/305-c.jpg",
+      "beaches/305-d.jpg",
+      "beaches/305-e.jpg"
+    ],
+    "location": "Ganapathipuram, Nagercoil, Tamil Nadu 629202.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.123239006865914, 77.35035365446689"
+}

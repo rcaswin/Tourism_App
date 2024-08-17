@@ -1,0 +1,19 @@
+{
+    "name": "St. Xaviers Cathedral",
+    "description": ["Kottar is located about 15 kilometers away from kanniyakumari. The Kottar bazaar is home to the Latin Rite Roman Catholic shrine which dates as far back as 1600. According to local lore, St Xavier arrived in Kottar and miraculously thwarted an attack from the Padagas using his cross as his only weapon. He was said to have saved the entire Venad kingdom and its inhabitants. As a gesture of goodwill, Unni Kerala Varma, he then king, allotted him land for the construction of a church; since the year 1544 AD the church stands tall patronising Mary."],
+    "image": [
+      "churches/211-a.jpg", 
+      "churches/211-b.jpg", 
+      "churches/211-c.png"],
+    "location" : "81 St. Xavier street kottar Nagercoil, Tamil Nadu 629002",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.1749803507742, 77.438457540294",
+    "visitingtime": {
+      "starttime": "06:00 AM",
+      "closingtime": "12:00 AM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Kodayar Twin Falls",
+    "description": [" Kodayar Twin Falls, also known as Kodaiyar Twin Falls, is a stunning pair of waterfalls located in the Western Ghats. These falls are part of the Kodayar River, which flows through dense forests and mountainous terrain. The twin falls are surrounded by lush greenery and offer a serene and picturesque setting, making them a popular spot for nature lovers, trekkers, and photographers.The area around the Kodayar Twin Falls is rich in biodiversity, providing opportunities for wildlife spotting and bird watching. The falls are best visited during the monsoon season when the water flow is at its peak, creating a spectacular sight. The journey to the falls often involves trekking through scenic landscapes, adding to the adventure and experience."],
+    "image": [
+      "ecotoursim/530-a.jpg", 
+      "ecotoursim/530-b.jpg",
+      "ecotoursim/530-c.jpg",
+      "ecotoursim/530-d.jpg"],
+    "location" : "F8RH+Q2H, Veerapuli R.F., Tamil Nadu 629101",
+    "categorycodes": "Waterfalls",
+    "latlongvalue": "8.492084454093977, 77.32753636481293",
+    "visitingtime": "Open 24 hours",
+    "holiday": [
+      "Open All Days"
+    ]
+}

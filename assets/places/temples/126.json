@@ -1,0 +1,29 @@
+{
+    "name": "Umaiiswarmudaiyanaiyanar kovil",
+    "description": ["Umaiiswarmudaiyanaiyanar Kovil is a distinguished Hindu temple dedicated to Lord Shiva, revered here as Umaiiswarmudaiyanaiyanar. This temple, nestled in a serene location, offers a tranquil atmosphere for devotees to seek the blessings of Lord Shiva and his consort Parvati. The temple is known for its traditional Dravidian architecture, featuring intricate carvings and a peaceful sanctum. Regular poojas and rituals are conducted with devotion, attracting worshippers who come to pray for health, prosperity, and spiritual guidance. The temple is especially lively during Maha Shivaratri and other significant festivals, drawing large numbers of devotees."],
+    "image": [
+      "temples/t126-b.jpg"],
+    "location" : "KanyaKumari District, Tamil Nadu 629852",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.26954577654866, 77.4315318181361",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "7:30 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

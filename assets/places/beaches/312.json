@@ -1,0 +1,16 @@
+{
+    "name": "Kovalam Beach",
+    "description": [
+        "Kovalam Beach in Kanyakumari, Tamil Nadu, is a beautiful beach known for its scenic landscapes and tranquil environment. This beach is popular among tourists for its golden sands, clear waters, and picturesque surroundings. It offers a peaceful retreat away from the hustle and bustle, making it a perfect spot for relaxation and leisurely activities."
+    ],
+    "image": [
+        "beaches/312-a.jpg",
+        "beaches/312-b.jpg",
+        "beaches/312-c.jpg",
+        "beaches/312-d.jpg"
+    ],
+    "location": "Kovalam, Kanniyakumari, Tamil Nadu, 629702, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.08356989815256, 77.53082402590101"
+}
+

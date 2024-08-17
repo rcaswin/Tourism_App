@@ -1,0 +1,29 @@
+{
+    "name": "Mehalinga sastha temple",
+    "description": ["Mehalinga Sastha Temple is a sacred temple dedicated to Lord Ayyappa, also known as Sastha, who is revered as a deity of righteousness and protector of the virtuous. The temple is nestled in a serene location, providing a tranquil atmosphere for devotees to offer their prayers and seek blessings. The architecture of the temple is traditional, featuring intricate carvings and a peaceful sanctum. The temple is particularly crowded during the festival season, especially during the Mandala Pooja and Makara Vilakku, which are significant in Ayyappa worship. Devotees visit the temple to seek divine intervention for health, prosperity, and spiritual well-being."],
+    "image": [
+      "temples/t118-a.jpg"],
+    "location" : "Kavalkinaru, Tamil Nadu 627105",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.257973190096328, 77.55472936311357",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "5:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

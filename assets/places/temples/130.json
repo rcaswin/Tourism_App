@@ -1,0 +1,29 @@
+{
+    "name": "Ganapathikal Sri Bala ganapathi Temple",
+    "description": ["Ganapathikal Sri Bala Ganapathi Temple is a revered Hindu temple dedicated to Lord Ganesha, specifically in his child form known as Bala Ganapathi. Lord Ganesha, the remover of obstacles and the god of wisdom and beginnings, is worshipped here with great devotion. The temple is known for its peaceful ambiance and traditional architecture, with a beautifully adorned idol of Bala Ganapathi. Devotees visit the temple to seek blessings for success, prosperity, and the removal of obstacles in their personal and professional lives. The temple is particularly crowded during festivals such as Vinayaka Chaturthi, when special poojas and rituals are conducted."],
+    "image": [
+      "temples/t130-b.jpg"],
+    "location" : "Kilamalai R.F., Tamil Nadu 629101",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.446923827865081, 77.24679535534302",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

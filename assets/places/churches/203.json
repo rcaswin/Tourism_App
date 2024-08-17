@@ -1,0 +1,19 @@
+{
+    "name": "Home Church",
+    "description": ["With roots tracing back to 1819, CSI Home Church is one of Asia's oldest and largest churches. It was established under Rev William Tobias Ringeltaube, a Prussian who had traveled from Madras to Nagercoil and worked with Rev Charles Mead. General John Munro, 9th of Teaninich, provided the land for the church's building. He played an essential role in aiding communication between the Missionary and both Madras & Travancore's governments at that time. For almost two hundred years, Theological Education was aided by developments in the church. In 1830, a famous linguist chose the church as the location for his wedding ceremony - Robert Caldwell. He sadly passed away on 28th August 1891 and was buried in Tirunelveli."],
+    "image": [
+      "churches/203-a.jpg", 
+      "churches/203-b.jpg", 
+      "churches/203-c.jpg"],
+    "location" : "Opp. Women's Christian College, Nagercoil, Tamil Nadu 629001",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.184253940325824, 77.42818310185464",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "09:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

@@ -1,0 +1,372 @@
+[
+    {
+        "name": "Be Well Hospital",
+        "description": "Be Well Hospital in Nagercoil is a modern healthcare facility offering comprehensive medical services. Equipped with advanced technology and a team of skilled professionals, it provides high-quality patient care across various specialties. The hospital is committed to enhancing community health and well-being through excellence in healthcare delivery.",
+        "address": "K.P.Road, Jawahar St, Ramavarmapuram, Nagercoil, Tamil Nadu 629001",
+        "latitude": 8.176466187398507, 
+        "longitude": 77.42758913794079,
+        "contactNumber": "09443151413",
+        "website": "https://www.bewellhospitals.in/24-hours-hospital-in-nagercoil.php",
+        "photos": [
+            "assets/images/hospitals/h1.jpg",
+            "assets/images/hospitals/h2.jpg",
+            "assets/images/hospitals/h3.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Kani Hospital",
+        "description": "Kani Hospital | Sunjay Neuro Care | Newsha Child Care | Sunjanaa Skin Care | Best Neurology Specialist Stroke Diabetes Center",
+        "address": "Aralvaimozhi, Tamil Nadu",
+        "latitude": 8.251281553972829, 
+        "longitude": 77.52480619561331,
+        "contactNumber": "04652263169",
+        "website": "https://kanihospital.in/contact-us.html",
+        "photos": [
+            "assets/images/hospitals/h4.jpg",
+            "assets/images/hospitals/h5.jpg",
+            "assets/images/hospitals/h6.jpg"
+        ],
+        "openingTime": "09:00 AM",
+        "closingTime": "09:00 PM"
+    },
+    {
+        "name": "Thiraviam Orthopaedic Hospital",
+        "description": "Thiraviam Orthopaedic Hospital, a renowned medical facility specializing in orthopaedic care, is dedicated to providing top-notch treatment for a wide range of orthopaedic conditions. With a focus on patient-centered care and advanced medical expertise, the hospital stands as a beacon of hope for those seeking effective solutions for their orthopaedic concerns.",
+        "address": "2-191, Thirunelveli Main Road, Bridge, near Ozhuginasery, Therakalputhoor, Nagercoil, Tamil Nadu 629901",
+        "latitude": 8.204524303273967, 
+        "longitude": 77.44571683869566,
+        "contactNumber": "04652276186",
+        "website": "https://www.thiraviamorthopaedic.com/",
+        "photos": [
+            "assets/images/hospitals/h7.jpg",
+            "assets/images/hospitals/h8.jpg",
+            "assets/images/hospitals/h9.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "William Hospital",
+        "description": "William Hospital is dedicated to offering exceptional healthcare services, particularly in the field of women's health. With a focus on cutting-edge treatments and patient-centered care, the hospital ensures that every woman receives the best medical attention possible. The facility’s commitment to excellence extends to its accessibility and inclusivity, making it a premier choice for those seeking top-notch medical care.",
+        "address": "M.S.Road, Kanyakumari, near Krishnan Koil, Nagercoil, Tamil Nadu 629001",
+        "latitude": 8.223616183183024,  
+        "longitude": 77.41889321225113,
+        "contactNumber": "04652272588",
+        "website": "https://williamhospital.org/",
+        "photos": [
+            "assets/images/hospitals/h10.jpg",
+            "assets/images/hospitals/h11.jpg",
+            "assets/images/hospitals/h12.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "A.J Hospital",
+        "description": "A J Hospital in Kottaram, Nagercoil is one of the most renowned Hospitals in the area. Countless locals in Kottaram have placed immense trust in the practitioner over the years. A J Hospital is situated at Mission Compound, Kottaram-629703 which is easily accessible through various modes of transport.",
+        "address": "Mission Compound, Kottaram, Perumalpuram, Tamil Nadu 629703",
+        "latitude": 88.128792396509636,   
+        "longitude":77.53170488309279,
+        "contactNumber": "004652270436",
+        "website": "https://www.ajhospital.in/",
+        "photos": [
+            "assets/images/hospitals/h13.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Neela Hospital",
+        "description": "NEELA HOSPITAL is a recognized name in patient care. They are one of the well-known Hospitals in Kottaram. Neela Hospital offers the best in patient care and equipped with technologically advanced healthcare facilities. Neela Hospital is one of the upcoming names in the healthcare industry.",
+        "address": "4GCG+73Q, Kottaram, Tamil Nadu 629703",
+        "latitude": 8.124240633405176,    
+        "longitude":77.52549505559823,
+        "contactNumber": "09600345343",
+        "website": "https://www.kanyakumarionline.co/neela-hospital",
+        "photos": [
+            "assets/images/hospitals/h14.jpg",
+            "assets/images/hospitals/h15.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Justin Hospital",
+        "description": "Justin Hospital is one of the best hospital in Kanyakumari that has dermatologist, neurologist, heart specialist, gastroenterologist, eye specialist.Established in the year 1977, Justin Hospital in Kulasekharam, Kanyakumari is a top player in the category Hospitals in the Kanyakumari.",
+        "address": "976V+QP Kulasekharam, Tamil Nadu",
+        "latitude": 8.363253730412477,   
+        "longitude": 77.29465582033497, 
+        "contactNumber": "04651277608",
+        "website": "NA",
+        "photos": [
+            "assets/images/hospitals/h16.jpg",
+            "assets/images/hospitals/h17.jpg"
+        ],
+        "openingTime": "08:00 AM",
+        "closingTime": "09:00 PM"
+    },
+    {
+        "name": "CSI Mission Hospital Kulasekharam",
+        "description": "Located in a hilly area infested with malaria is the third hospital opened by Dr. Thomson in a building donated by the Government. What was previously a salt store-house was remodeled into a hospital and opened on October 26, 1881. Additional rooms, a Maternity ward and a deep well were later constructed. A government hospital was started nearby and the hospital had to be shut down temporarily between 1954 to 1960. It was reopened and further expanded and an X-ray laboratory was opened as well. The hospital proved very useful especially to the labourers of the various rubber estates in the locality. Various Community Health centres in multiple villages were opened which offered medical counseling and promoted health awareness.",
+        "address": "SH 90, Kulasekharam, Tamil Nadu 629161",
+        "latitude": 8.36694764363103, 
+        "longitude":77.29688741569096  ,
+        "contactNumber": "04651277375",
+        "website": "https://www.csimedicalmission.in/Kulasekaram.aspx",
+        "photos": [
+            "assets/images/hospitals/h18.jpg",
+            "assets/images/hospitals/h19.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Valliammai Achi Hospital",
+        "description": "The Hospital named in the memory of Valliammai Achi is one of the earliest Institutions of Philanthropy established in 1982 in Kanyakumari District. It serves a vast population comprising the employees and dependants of New Ambadi Estates and other surrounding villages. The Hospital has expanded its activities with special clinics and In-patient care. VAH also caters to the medical needs of the unreached tribal community through a Mobile Medical Van. The hospital reaches out to about 5000 patients in a month through its OP services and about 1500 patients a moth though its MHV services.",
+        "address": "Valliammai Achi Hospital, Kadayalumoodu, Kaliyal 629 101, Tamil Nadu",
+        "latitude": 8.419125320811736, 
+        "longitude":77.26889040119337,
+        "contactNumber": "04651281107",
+        "website": "https://valliammaiachihospital.org/",
+        "photos": [
+            "assets/images/hospitals/h20.jpg",
+            "assets/images/hospitals/h21.jpg",
+            "assets/images/hospitals/h22.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+   
+    {
+        "name": "Primary Health Centre Pathukani",
+        "description": "Pathukani Primary Health Centre is located near Melpuram Block Vilavancode Taluk Kanniyakumari District. ",
+        "address": "F6GG+FWG, Unnamed Road, Pathukani, Tamil Nadu 695505",
+        "latitude": 8.47904075059339,  
+        "longitude":77.22728770203551,
+        "contactNumber": "04651285108",
+        "website": "https://kanniyakumari.nic.in/health/",
+        "photos": [
+            "assets/images/hospitals/h23.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Yogiraj spinal hospital",
+        "description": "he Founder of Yogiram Clinic Dr. Sivadanu Pillai Had Also Undergone Ayurvedic Treatment As An Unexpected Event While Curing A Stomach Problem Patient Who Admitted in The Reputed Ayurvedic Hospital in Trivandrum And From The Ayurvedic Doctor He Also Known The Ayurvedic Treatment And Cured The Patient On His Own. This Itself Dragged Him To The Ayurvedic Path Way.",
+        "address": "8/103, YOGIRAJ SPINAL HOSPITAL, Chiramadam, Tamil Nadu 629851",
+        "latitude": 8.289404636856448, 
+        "longitude": 77.43221418628974,
+        "contactNumber": "09443608044",
+        "website": "http://www.backbonespecialist.com/",
+        "photos": [
+            "assets/images/hospitals/h24.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Dr. Alban Memmorial Hospital",
+        "description": "Dr. Alban Memmorial Hospital is located in Aruvikkarai, Attur, Chenkody, Moovattumugham, Tiruvattar, Veeyannur area of Kanyakumari, Tamil nadu India.",
+        "address": "State Highway 45, Thiruvattar Main Road, Near Santhi Hotel, Attur, Attoor, Tamil Nadu 629177",
+        "latitude": 8.325818946400425,
+        "longitude": 77.26015155316458,
+        "contactNumber": "09442401894",
+        "website": "NA",
+        "photos": [
+            "assets/images/hospitals/h25.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Our Lady Of Pillar Hospital",
+        "description": "Our Lady of Pillar Hospital is a recognized name in patient care. They are one of the well-known Hospitals. Backed with a vision to offer the best in patient care and equipped with technologically advanced healthcare facilities, they are one of the upcoming names in the healthcare industry. Our Lady of Pillar Hospital is widely known for neurology in Kanyakumari, Tamil Nadu.",
+        "address": "6/106-d, Kanniyakumari, Tamil Nadu 629702",
+        "latitude": 8.087021325624013, 
+        "longitude": 77.54122587574396,
+        "contactNumber": "04653246519 ",
+        "website": "NA",
+        "photos": [
+            "assets/images/hospitals/h26.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "sree mookambika hospital and research",
+        "description": "Sree Mookambika Institute of Medical Sciences (SMIMS) is one of the fastest emerging Medical Teaching Institutes in South India.Be it world-class infrastructure facilities, presence of the finest medical teachers in the country or the availability of unlimited learning resources, the institute has it all to cater to the need of the 21st Century Medical Student.",
+        "address": "976V+76 Kulasekharam, Tamil Nadu",
+        "latitude": 8.357866695840798, 
+        "longitude": 77.34009835754279,
+        "contactNumber": "04651280866 ",
+        "website": "https://smims.sreemookambikainstitute.com/",
+        "photos": [
+            "assets/images/hospitals/h27.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Radhakrishnan Hospital",
+        "description": "Radhakrishnan Hospital in Kulasekharam, Kanyakumari is one of the most renowned Children Hospitals in the area. Countless locals in Kulasekharam have placed immense trust in the practitioner over the years. Radhakrishnan Hospital is situated at SH 90, Near Bus Stop, Market Junction, Kulasekharam-629161 near Bus Stop, Market Junction, which is easily accessible through various modes of transport.",
+        "address": "975R+PM4, Near Bus Stop, Market Junction, SH 90, Kulasekharam, Tamil Nadu 629161",
+        "latitude": 8.360511694269286,  
+        "longitude": 77.29163336528103,
+        "contactNumber": "04651277266",
+        "website": "NA",
+        "photos": [
+            "assets/images/hospitals/h28.jpg",
+            "assets/images/hospitals/h29.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Srinivasa Hospitals (Orthopaedic and Fertility Centre)",
+        "description": "SRINIVASA HOSPITALS is a well recognized, exclusive Orthopaedic & Gynaecology super speciality centre in south Tamilnadu. It is in the out-skirts of Nagercoil town and the hospital consists of well equipped ICU, three Operation Theatres with dedicated team of Consultants led by the Chief Orthpaedic surgeon Dr. M.Srinivasan.The hospital offers the best treatment for Orthopaedic problems like complicated Trauma, Joint replacement, Spine sugery, Pediatric surgery, Pain management and also allied specials like Neurosurgery, Plastic surgery, Vascular surgery etc.",
+        "address": "Thirunelveli Main Road, National Highway 47B, Therakalputhoor, Nagercoil, Tamil Nadu 629901",
+        "latitude": 8.202614120619932,   
+        "longitude": 77.45477187487279,
+        "contactNumber": "04652277522",
+        "website": "http://www.srinivaasahospitals.com/",
+        "photos": [
+            "assets/images/hospitals/h30.jpg",
+            "assets/images/hospitals/h31.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Perinba Hospital",
+        "description": "Perinba Hospital , Kalkulam · 16-180, Kulasekaram - Thuckalay Road, Kulasekaram Post, near FIRE Station, Kanniyakumari, Tamil Nadu, India - 629161 ·",
+        "address": "192/2, Kulasekharam Thuckalay Rd, Kulasekharam, Tamil Nadu 629161",
+        "latitude": 8.371231128689729,    
+        "longitude": 77.29628778375881,
+        "contactNumber": "04651277634",
+        "website": "NA",
+        "photos": [
+            "assets/images/hospitals/h32.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Maclean Hospital",
+        "description": "Maclean Hospital in Thuckalay, Kanyakumari is one of the most renowned Hospitals in the area.They are dedicated to providing you with the personalized, quality health care that you deserve.Dr. Jerryl Maclean is one of the young Interventional Pulmonologist from Kanyakumari in Tamil Nadu and specialised in Bronchoscopic Lung Biopsy, Tracheal & Bronchial Stenting, Ballon Bronchoplasty, Bronchoscopic Electrocautery, Airway Tumor Debulking, Medical Thoracoscopy and Thoracoscopic Pleurodesis·",
+        "address": "NH 66, Thuckalay, Tamil Nadu 629175",
+        "latitude": 8.246032569894911,     
+        "longitude": 77.31612279141221,
+        "contactNumber": "04651250482",
+        "website": "http://www.macleanhospital.co.in/",
+        "photos": [
+            "assets/images/hospitals/h33.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Sivanthi Hospital",
+        "description": "Sivanthi Hospital is a leading healthcare institution that provides comprehensive medical services to address a wide range of health concerns. With a focus on patient-centric care and cutting-edge medical technology, Sivanthi Hospital is dedicated to delivering exceptional healthcare solutions to its patients. The hospital's commitment to excellence and patient well-being makes it a preferred choice for individuals seeking high-quality medical care·",
+        "address": "5/1a, Cape Rd, Vivekanandapuram, Kanniyakumari, Tamil Nadu 629702",
+        "latitude": 8.091376355034239,      
+        "longitude": 77.54936338442313,
+        "contactNumber": "04652246243",
+        "website": "NA",
+        "photos": [
+            "assets/images/hospitals/h34.jpg"
+        ],
+        "openingTime": "12:00 AM",
+        "closingTime": "11.30 PM"
+    },
+    {
+        "name": "S.K.HOSPITAL",
+        "description": "Sk Hospital in Padmanabhapuram, Kanyakumari is one of the most renowned Hospitals in the area. Countless locals in Padmanabhapuram have placed immense trust in the practitioner over the years. Sk Hospital is situated at Sk Hospital, Fire Station Near, Irattai Vaikal Street, Padmanabhapuram-629175 near Fire Station Near, which is easily accessible through various modes of transport.",
+        "address": "68RG+PJP, Trivandrum-Nagercoil Hwy, Thuckalay, Tamil Nadu 629175",
+        "latitude": 8.242419491029,     
+        "longitude": 77.32671670309581 ,
+        "contactNumber": "91 471 2356260",
+        "website": "Nhttp://skhospitals.com/",
+        "photos": [
+            "assets/images/hospitals/h35.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Kanyakumari govt hospital",
+        "description": "Kanyakumari Government Hospital is a key healthcare institution providing comprehensive medical services to the residents of Kanyakumari and surrounding areas. Known for its dedicated team of medical professionals and modern facilities, the hospital offers a wide range of treatments and emergency care. With a commitment to delivering quality healthcare to all, regardless of socioeconomic status, Kanyakumari Government Hospital plays a crucial role in the community's well-being. Its strategic location and accessibility make it a vital resource for patients seeking reliable and efficient medical care.",
+        "address": "3GMW+9MW, Kanniyakumari, Tamil Nadu 629702",
+        "latitude": 8.084356622460128,     
+        "longitude": 77.54662456811917, 
+        "contactNumber": "04652248505",
+        "website": "NA",
+        "photos": [
+            "assets/images/hospitals/h36.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "MERCY HOSPITAL",
+        "description": "Mercy Hospital is a distinguished healthcare facility renowned for its compassionate care and advanced medical services. Located in a central and easily accessible area, Mercy Hospital is dedicated to providing high-quality healthcare to patients from diverse backgrounds. The hospital boasts a team of experienced medical professionals and state-of-the-art technology, ensuring comprehensive treatment across various specialties. With a strong focus on patient comfort and well-being, Mercy Hospital offers a supportive and healing environment, making it a trusted choice for individuals seeking exceptional medical care.",
+        "address": "97CX+46X, Kulasekharam, Tamil Nadu 629161",
+        "latitude": 8.398897763025909,     
+        "longitude": 77.30517260828806, 
+        "contactNumber": "+919655167467",
+        "website": "NA",
+        "photos": [
+            "assets/images/hospitals/h37.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Government District HeadQuarters Hospital",
+        "description": "Government District Headquarters Hospital is a premier healthcare institution serving as the primary medical center for the district. Known for its extensive range of medical services and well-equipped facilities, the hospital is committed to providing high-quality care to all residents, irrespective of their financial status. With a dedicated team of skilled doctors, nurses, and support staff, the hospital addresses various healthcare needs, from routine check-ups to complex treatments. Its central location ensures easy accessibility for patients across the district. The Government District Headquarters Hospital stands as a pillar of the community's health infrastructure, ensuring reliable and efficient medical care for all.",
+        "address": "68X7+37H, NH 66, Thuckalay, Tamil Nadu 629175",
+        "latitude": 8.249913694648749,     
+        "longitude": 77.31342103109746, 
+        "contactNumber": "04651250732",
+        "website": "https://kanniyakumari.nic.in/directory/govt-head-quarters-hospital-padmanabhapuram/",
+        "photos": [
+            "assets/images/hospitals/h38.jpg",
+            "assets/images/hospitals/h39.jpg",
+            "assets/images/hospitals/h40.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "Maria Ayurveda Medical College And Hospital",
+        "description": "Maria Ayurveda Medical College & Hospital stands as a beacon of excellence in the field of Ayurvedic education and healthcare.Maria Ayurveda Medical College is established by Maria Educational and Charitable Trust. This concern is located in Kanyakumari district at Thiruvattar. The Maria Ayurveda Medical College and Hospital is situated at 6 km from the town Marthandam located in the National Highway NH47 Connecting Kanyakumari and Trivandrum, the capital of Kerala state. Maria Educational and Charitable Trust is a public charitable trust established and registered in the year 2010, with the objective of making quality education comparable to international standards to the public at reasonable cost.",
+        "address": "Thottavaram, Barathapalli Road, Attoor, Tamil Nadu 629177",
+        "latitude": 8.332886390539537,    
+        "longitude": 77.2593824833767  , 
+        "contactNumber": "04651283652",
+        "website": "http://www.mariaayurvedacollege.org/",
+        "photos": [
+            "assets/images/hospitals/h41.jpg",
+            "assets/images/hospitals/h42.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    },
+    {
+        "name": "St Mary’s Hospital",
+        "description": "St Mary’s Hospital Is A Speciality Health Centre Which Provide Exceptional Health Care Services Mainly In The Field Of Gastroenterology Gynaecology And Infertility.St.Mary's Hospital To Improve The Health And Quality Of Life For All Those We Serve.Our Vision Is To Be The Premier Health Care Institution For Patients Seeking Medical Care.",
+        "address": "68V9+WM2, Chakala, Thuckalay, Tamil Nadu 629175",
+        "latitude": 8.24576678583323,  
+        "longitude": 77.31936097550887, 
+        "contactNumber": "09842141033",
+        "website": "https://stmaryshospital.org.in/",
+        "photos": [
+            "assets/images/hospitals/h43.jpg",
+            "assets/images/hospitals/h44.jpg"
+        ],
+        "openingTime": "NA",
+        "closingTime": "NA"
+    } 
+]

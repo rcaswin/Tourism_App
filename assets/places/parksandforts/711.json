@@ -1,0 +1,20 @@
+{
+    "name": "Kovalam Park",
+      "description": ["Kovalam Park in Kanyakumari offers a serene escape near the southernmost tip of India. It features lush greenery, walking trails, and viewpoints overlooking the confluence of the Indian Ocean, Arabian Sea, and Bay of Bengal. Visitors enjoy peaceful strolls amidst coastal breezes and panoramic vistas. The park provides a tranquil setting to appreciate the natural beauty and spiritual significance of Kanyakumari, making it a favored spot for relaxation and contemplation."],
+      "image": [
+        "parksandforts/711-a.jpg", 
+        "parksandforts/711-b.jpg", 
+        "parksandforts/711-c.jpg"],
+      "location" : "3GJM+5R6, Kovalam, Kanniyakumari, Tamil Nadu 629702",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.080757617118772, 77.53448527339212",
+     
+      "visitingtime": {
+        "starttime": "06:00 AM",
+        "closingtime": "09:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]  
+}

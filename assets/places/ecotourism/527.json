@@ -1,0 +1,19 @@
+{
+    "name": "Tsunami Memorial Park",
+    "description": ["It is a uniquely colored 16 foot memorial, stands as a grim reminder of the lives claimed by the Asian Tsunami, on the southern shores of Kanyakumari. On 26 December 2004, the giant waves of the Indian Ocean smashed the coast of Kerala, Tamil Nadu, Andaman and Nicobar Islands, and other South-east Asian countries killing thousands and rendering many homeless. Tsunami Memorial is indeed a very special monument in honor of the people who lost their lives under the havoc wrecked by the gigantic waves.Tourists from the world over visit this place to pay homage. Two hands; one holding back a huge blue wave and the other cupped around a lamp of hope make this steel structure. The plaque below it records the date and importance of this solemn monument. Take a stroll in the area; you will feel a sense of absolute calm – and also a realization that nature finally prevails."],
+    "image": [
+      "ecotoursim/527-a.jpg", 
+      "ecotoursim/527-b.jpg",
+      "ecotoursim/527-c.jpg",
+      "ecotoursim/527-d.jpg"],
+    "location" : "Near south shore, Kanyakumari, Tamil Nadu, 629702, India",
+    "categorycodes": "Memorial Park",
+    "latlongvalue": "8.07901822262906, 77.55082334364376",
+    "visitingtime": {
+        "starttime": "06:00 AM",
+        "closingtime": "07:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

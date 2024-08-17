@@ -1,0 +1,19 @@
+{
+    "name": "St. Mary's Orthodox Church",
+    "description": ["St. Mary's Orthodox Church, known as Thiruvithamcode Arappally or Thomayar Kovil, is located in the Kanniyakumari District of Thiruvithamcode. It's a notable religious site and has been around for centuries.. The St. Thomas tradition maintains that the religion of India was shaped by St. Thomas, one of the twelve disciples of Jesus Christ. This is widely accepted and believed among many religious followers today. The church's formation was established in the 1700s, splitting into three sections. Improvements continued to be made during the 1900s. A passageway corridor was developed. The dividers of this structure are made from nearby quarried stone and delicately engraved by talented artisans using multi-tipped hand-driven tools."],
+    "image": [
+      "churches/209-a.jpg", 
+      "churches/209-b.jpg", 
+      "churches/209-c.jpg"],
+    "location" : " Thiruvithancode, Tamil Nadu 629174",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.248317688438549, 77.30137431056464",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "09:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

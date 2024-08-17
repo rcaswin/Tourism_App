@@ -1,0 +1,20 @@
+{
+    "name": "Pechiparai Dam",
+    "description": ["The Pechiparai Dam was built during the reign of Maharaja Moolam Thirunal by Mr Minchin, a European engineer. It was built from 1897 to 1906 to provide water to irrigational land in and around Kanyakumari and cost around twenty-five lakh rupees a considerable sum in the early 19th century.The Pechiparai Dam is around 58 km from Kanyakumari and 60 km from Thiruvananthapuram. On the other side of the Pechiparai Dam are the Thottamalai and Thachamalai hills, inhabited by Kani tribesmen."],
+    "image": [
+      "ecotoursim/525-a.jpg", 
+      "ecotoursim/525-b.jpg",
+      "ecotoursim/525-c.jpg",
+      "ecotoursim/525-d.jpg",
+      "ecotoursim/525-e.jpg"],
+    "location" : "F825+F8X, Pechiparai Dam Road, Pechiparai, Tamil Nadu 629101",
+    "categorycodes": "Dam",
+    "latlongvalue": "8.451732711837678, 77.30952589096971",
+    "visitingtime": {
+        "starttime": "09:00 AM",
+        "closingtime": "06:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

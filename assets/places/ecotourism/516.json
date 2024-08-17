@@ -1,0 +1,19 @@
+{
+    "name": "Perunchani Dam",
+    "description": ["Perunchani Dam is an irrigation dam at Perunchani, about 42 km from Nagercoil, the administrative headquarters-town of Kanyakumari District, and about 10 km from the town of Kulasekhram.The dam is built across the River Paralayar. It is a straight gravity masonry dam of 373.10 meters long consisting of 275.28 meters of bulk head section. A drainage gallery of 1.52 x 2.29 M has been provided in the middle river section for a length of 45.70 M which serves a longitudinal inspection chamber as well as out-let for the seepages from the foundation.The dam is set amidst the hills of the Western Ghats and commands a picturesque view of the hills and lush greenery around. "],
+    "image": [
+      "ecotoursim/516-a.jpg", 
+      "ecotoursim/516-b.jpg",
+      "ecotoursim/516-c.jpg",
+      "ecotoursim/516-d.jpg"],
+    "location" : "Ponmanai Perunchani Dam Rd, Veerapuli R.F., Tamil Nadu 627133.",
+    "categorycodes": "Dam",
+    "latlongvalue": "8.364309097707459, 77.3580040661006",
+    "visitingtime": {
+        "starttime": "10:00 AM",
+        "closingtime": "05:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

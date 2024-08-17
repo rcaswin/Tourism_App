@@ -1,0 +1,28 @@
+{
+    "name": "Padmanabhapuram Palace",
+      "description": ["Situated in Padmanabhapuram of the Kanyakumari district of Tamil Nadu, the Padmanabhapuram Palace (also known as Kalkulam Palace) is a landmark from the Travancore era. The ownership, control, and maintenance of the palace is held by the Kerala state government. This palace is older than Rambagh Palace in Rajasthan. It is possible that it is the one of the oldest palaces in India.  Padmanabhapuram was the ruling capital of the historic Hindu kingdom of Travancore. It is an iconic place known for its cultural & religious significance. It is around 20 km from Nagercoil, 39 km from Kanyakumari town and 52 km from Thiruvananthapuram in Kerala. The palace is complex inside with an old granite fortress around four kilometers long. The intricate interiors of the palace are encased within an ancient granite fortress measuring four kilometers in length. This royal abode is set at the foot of the picturesque Veli Hills, part of the popular Western Ghats. The river Valli flows nearby. Kuttalam Palace is situated in Kuttalam, Tenkasi district of Tamil Nadu and is a renowned attraction owned by the Kerala government. It's an impressive architecture that captivates all who visit it. It is situated in the Tenkasi District, Tamil Nadu (before state reorganisation, Kanyakumari District, Chenkottah Taluk, Tenkasi Taluk including the areas of Kuttalam are in the control of Travancore Kingdom in Kerala).Under the authority of the Kerala Government, this property is owned, managed and operated."],
+      "image": [
+        "parksandforts/706-a.jpg", 
+        "parksandforts/706-b.jpg", 
+        "parksandforts/706-c.jpg"],
+      "location" : "Chakala, Thuckalay, Tamil Nadu 629175",
+      "categorycodes": "parksandforts",
+      
+      "latlongvalue": "8.250776914904414, 77.32658499695343",
+     
+      "visitingtime": {
+        "starttime": "09:30 AM",
+        "closingtime": "04:30 PM"
+      },
+    "holiday": [
+      "Monday"
+    ],
+    "entryfee" : [
+        "Kids : ₹ 10",
+        "Adult : ₹ 35",
+        "Foreigner (Children) : ₹ 100",
+        "Foreigner (Adult) : ₹ 300",
+        "Video Camers : ₹ 2500",
+        "Still Camera : ₹ 50"
+    ]
+  }

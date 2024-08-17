@@ -1,0 +1,19 @@
+{
+    "name": "St.Thasnavis Matha Church",
+    "description": ["Since 1954, St. Thasnavis Matha (Our Lady of Snows) has been dedicatedly worshipped in the Maravankudieruppu Village, which was built by Thiru Swamiyadian Thirupappu Nadar and his predecessors in 1781. With its tranquil atmosphere and beautiful scenery, it's one of the top churches to visit in Kanyakumari."],
+    "image": [
+      "churches/212-a.jpg", 
+      "churches/212-b.jpg",
+      "churches/212-c.jpg"],
+    "location" : "Alanvilai, Tamil Nadu 629809",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.191024227866313, 77.34014846544855",
+    "visitingtime": {
+      "starttime": "06:00 AM",
+      "closingtime": "09:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Mayapuri Wonder Wax",
+    "description": [" One of the top tourist attractions of Kanniyakumari, this museum is also known as Mayapuri Wonder Wax Museum.Located inside the Baywatch amusement park in Kanniyakumari, the wax museum is designed in line with the world-famous Madame Tussaud’s in London. Though not a grand one with so much of exhibits when compared to various other bigger wax museums in the world, Kanniyakumari Wax Museum still has enough in to excite a visitor. Kids will especially love the museum and a chance to see figures of their dearest stars up close. Historical figures, Indian and international movie actors, political figures, sports personalities etc. are included in the list. Some of the most noted celebrities in the hall include Mahatma Gandhi, Mother Teresa, Indira Gandhi, Atal Bihari Vajpayee, Dr. Manmohan Singh, Amithabh Bacchan, Arnold Schwarzenegger, Shahrukh Khan Jackie Chan and so goes the list. The museum was established in 2005 and continues to be a source of great amusement and entertainment to tourists visiting Kanniyakumari. There are also 3D paintings within the museum premises that add to the attraction. Make sure to drop in to this amazing venue on your trip to Kanniyakumari."],
+    "image": [
+      "ecotoursim/529-a.jpg", 
+      "ecotoursim/529-b.jpg",
+      "ecotoursim/529-c.jpg",
+      "ecotoursim/529-d.jpg",
+      "ecotoursim/529-e.jpg",
+      "ecotoursim/529-f.jpg",
+      "ecotoursim/529-g.jpg",
+      "ecotoursim/529-h.jpg"],
+    "location" : "3GQX+2J Kanniyakumari, Tamil Nadu",
+    "categorycodes": "Museum",
+    "latlongvalue": "8.08776705702211, 77.54902122432667",
+    "visitingtime": {
+        "starttime": "08:00 AM",
+        "closingtime": "08:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

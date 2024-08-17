@@ -1,0 +1,15 @@
+{
+    "name": "Paraikal Beach",
+    "description": [
+        "Paraikal Beach is a lesser-known, tranquil beach located near Kanyakumari, Tamil Nadu. This beach is renowned for its untouched natural beauty and serene environment, making it a perfect spot for a quiet and peaceful retreat. The clear waters and pristine sands provide an ideal setting for relaxation and leisurely walks along the shore."
+    ],
+    "image": [
+        "beaches/311-a.jpg",
+        "beaches/311-b.jpg",
+        "beaches/311-c.jpg",
+        "beaches/311-d.jpg"
+    ],
+    "location": "Paraikal, Kanniyakumari, Tamil Nadu, 629702, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.19564640144644, 77.22448820327097"
+}

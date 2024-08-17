@@ -1,0 +1,29 @@
+{
+    "name": "Mutturaman Temple",
+    "description": ["Mutturaman Temple, also known as Arulmigu Mutturaman Temple, is a revered Hindu temple dedicated to Lord Mutturaman, a manifestation of Lord Vishnu. Situated in a serene environment, the temple is known for its spiritual ambiance and architectural beauty. The temple holds a special significance among devotees who believe in the deity's blessings for prosperity and well-being. It hosts regular poojas and rituals that are conducted with traditional fervor, attracting devotees seeking solace and divine intervention in their lives. The temple's tranquil surroundings and the sanctity of its rituals make it a peaceful place for meditation and spiritual contemplation."],
+    "image": [
+      "temples/t120-a.jpg"],
+    "location" : "Aralvaimozhi, Tamil Nadu 627105",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.255680692388383, 77.52531826608757",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "5:30 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

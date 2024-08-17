@@ -1,0 +1,19 @@
+{
+    "name": "Suchindram Theroor Birds Sanctuary",
+    "description": ["Suchindrum Theroor Wetland complex is part of the Suchindrum-Theroor Manakudi Conservation Reserve. Area covered 94.229 ha. Commonly known as Suchindrum Eri & Theroor kulam; located at Kanniyakumari Dist. of Tamil Nadu State; is a Protected Area; declared as Conservation Reserve as per Sec 36 A of Wild Life Protection Act 1972; Env.& Forest Dept.,G.O.(Ms)No.41, Dated:19.3.2015. Theroor tank receives water from Thovalai channel, Suchindram tank receives water from Pazhaiyar river Channel. The wetland complex lies at intermittent point of Kodaiyar river drainage system, where water stored at Perunchanidam, Pechipparai and Kodaiyar dams is released into channel which drains thousands of ponds. Theroor and Suchindram play the primary role off buffering by acting as a sponge during events of floods and extreme rainfall. It is major source of ground water recharge. There is a significant runoff from the surrounding catchment area and the wetland acts as a sink for sediments."],
+    "image": [
+      "ecotoursim/524-a.jpg", 
+      "ecotoursim/524-b.jpg",
+      "ecotoursim/524-c.jpg",
+      "ecotoursim/524-d.jpg"],
+    "location" : "5FJ7+M62, Tamil Nadu 629901",
+    "categorycodes": "Sanctuary",
+    "latlongvalue": "8.182714268961094, 77.4628261500849",
+    "visitingtime": {
+        "starttime": "-",
+        "closingtime": "-"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

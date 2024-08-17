@@ -1,0 +1,31 @@
+{
+    "name": "Sothavilai Beach Temple",
+    "description": ["Sothavilai Beach Temple is a small yet revered temple located near Sothavilai Beach. The temple is popular among locals and tourists for its tranquil setting and proximity to the beach, making it a serene spot for worship and relaxation."],
+    "image": [
+      "temples/t109-a.jpg", 
+      "temples/t109-b.jpg", 
+      "temples/t109-c.jpg"],
+    "location" : "Kanniyakumari, Tamil Nadu 629602",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.112637907285078, 77.45511531215995",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "7:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

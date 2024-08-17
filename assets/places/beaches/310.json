@@ -1,0 +1,15 @@
+{
+    "name": "Vattakotai Beach",
+    "description": [
+      "Vattakottai Beach is located near the historic Vattakottai Fort in Kanyakumari, Tamil Nadu. It is known for its serene and secluded environment, making it an ideal spot for peaceful retreats. The beach offers stunning panoramic views of the sea and the fort, providing a unique blend of natural beauty and historical significance. The calm and clean waters make it a pleasant place for swimming and picnicking. Its proximity to Vattakottai Fort adds a historical charm, attracting both nature lovers and history enthusiasts."
+    ],
+    "image": [
+      "beaches/310-a.jpg",
+      "beaches/310-b.jpg",
+      "beaches/310-c.jpg",
+      "beaches/310-d.jpg"
+    ],
+    "location": "Vattakotai, Kanniyakumari, Tamil Nadu, 629401, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": " 8.125235772370292, 77.56532698188066"
+}

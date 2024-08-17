@@ -1,0 +1,21 @@
+{
+    "name": "Vattakottai Fort",
+    "description": ["Vattakottai Fort (or 'Circular Fort') is a seaside fort near Kanyakumari, Tamil Nadu the southern tip of India. It was built in the 18th century as a coastal defence-fortification and barracks in the former Travancore kingdom.It was constructed in the 18th century by Punachal/Elakkara Valiyaveetil Marthandan Chempakaraman Pillai for the kings of Travancore. Marthanda Pillai was born in an aristocratic house in Punachal Elakkara near Kuzhikode near Palliyadi in Kanyakumari district. (Then South Travancore). The house was a house that was associated with the royal family. Marthanda Pillai was born in the month of May 903 in Bharani Nakshatra, the son of Neelamma Pillai, a member of the said house, and Iravikurup, the bodyguard of Marthanda Varma. Later it was modified under the supervision of Captain Eustachius De Lannoy, an ex-Dutch naval officer of the Dutch East India Company, who became commander of the Travancore Army (the very army that defeated him in the Battle of Colachel) in the 18th century, after he earned the trust of the Travancore King Marthanda Varma. De Lannoy reconstructed Vattakottai, as part of the defence-fortifications he undertook throughout Travancore.The fort is made of granite blocks and, today, a part of the fort extends into the sea. It is a protected site under the Indian archaeological department. A major renovation of the fort was undertaken recently by the department, and the site is now a popular tourist spot.Vattakottai Fort commands a picturesque view of both the sea on the one side, and the hills (Western Ghats) on the other. Another interesting feature near the site is a beach of black sands. It is about 7 km (4.3 mi) from Kanyakumari town."],
+    "image": [
+      "ecotoursim/513-a.jpg", 
+      "ecotoursim/513-b.jpg",
+      "ecotoursim/513-c.jpg",
+      "ecotoursim/513-d.jpg",
+      "ecotoursim/513-e.jpg",
+      "ecotoursim/513-f.jpg"],
+    "location" : "1|60, Vattakkottai, Tamil Nadu 629401",
+    "categorycodes": "Fort",
+    "latlongvalue": "8.125876718613856, 77.56482035136709",
+    "visitingtime": {
+        "starttime": "09:00 AM",
+        "closingtime": "05:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

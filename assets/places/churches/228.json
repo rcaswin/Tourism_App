@@ -1,0 +1,19 @@
+{
+    "name": "St. Lucia's Church",
+    "description": ["This church was dedicated to Saint Lucia.It serves as one of the parish in the Archdiocese of Trivandrum.Since it is in tamilnadu,It follows malayalam latin-rite for rituals from the ancient times. "],
+    "image": [
+      "churches/228-a.jpg", 
+      "churches/228-b.jpg",
+      "churches/228-c.jpg"],
+    "location" : " Erayumanthurai, Tamil Nadu 629173",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.247552229711792, 77.15927059366497",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

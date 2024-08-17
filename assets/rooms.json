@@ -1,0 +1,133 @@
+[
+    {
+      "name": "Annai Resorts and Spa,Kanyakumari",
+      "description": "Annai Resorts and Spa in Kanyakumari is a luxurious retreat nestled amidst serene surroundings. Offering top-notch hospitality and rejuvenating spa experiences, it caters to guests seeking relaxation and comfort. With picturesque views and plush accommodations, Annai Resorts and Spa is an ideal destination for both leisure and wellness seekers in Kanyakumari.",
+      "address": "Kovalam Rd, opp. to bus stand, Kanniyakumari, Tamil Nadu 629702",
+      "latitude": 8.081949316055436, 
+      "longitude": 77.5425401760023,
+      "contactNumber": "9488246666",
+      "website": "https://www.annairesorts.com/",
+      "photos": ["assets/images/rooms/r1.jpg", "assets/images/rooms/r2.jpg", "assets/images/rooms/r3.jpg", "assets/images/rooms/r4.jpg"],
+      "openingTime": "2:00 PM",
+      "closingTime": "12:00 PM"
+    },
+    {
+      "name": "Hotel Sky Ark,Kanyakumari",
+      "description": "Hotel Skyark in Kanyakumari is a contemporary lodging option known for its comfortable accommodations and scenic views. Located near prominent landmarks, it offers convenience and hospitality to travelers exploring the southern tip of India. With modern amenities and a welcoming atmosphere, Hotel Skyark ensures a pleasant stay for guests visiting Kanyakumari.",
+      "address": "Opp Vivekananda kendra, Vivekanandapuram, Kanniyakumari, Tamil Nadu 629702",
+      "latitude": 8.092827187809949, 
+      "longitude": 77.5487092667757,
+      "contactNumber": "8122246624",
+      "website": "https://www.hotelskyark.com/",
+      "photos": ["assets/images/rooms/r5.jpg", "assets/images/rooms/r6.jpg", "assets/images/rooms/r7.jpg"],
+      "openingTime": "12:00 PM",
+      "closingTime": "11:00 AM"
+    },
+    {
+      "name": "TTDC Hotel Tamil Nadu, Kanyakumari",
+      "description": "TTDC Hotel Tamil Nadu in Kanyakumari is a comfortable and convenient accommodation option managed by the Tamil Nadu Tourism Development Corporation. Located in the picturesque coastal town of Kanyakumari, which is famous for its stunning sunrises and sunsets, this hotel offers a serene retreat for travelers.",
+      "address": "Beach road, Kanniyakumari, Tamil Nadu 629702",
+      "latitude": 8.080616604494292,  
+      "longitude": 77.54716058059323,
+      "contactNumber": "9488638287",
+      "website": "https://www.ttdconline.com",
+      "photos": ["assets/images/rooms/r8.jpg", "assets/images/rooms/r9.jpg", "assets/images/rooms/r10.jpg", "assets/images/rooms/r11.jpg"],
+      "openingTime": "2:00 PM",
+      "closingTime": "12:00 PM"
+    },
+    {
+      "name":"Hotel Sea View,Kanyakumari",
+      "description":"Hotel Sea View in Kanyakumari offers guests a luxurious and memorable stay with stunning panoramic views of the Indian Ocean. Perfectly located near the beach, this hotel is a popular choice for travelers who want to experience the beauty and tranquility of the southernmost tip of India." ,
+      "address": "2/17, East Car Street, Kanniyakumari, Tamil Nadu 629702",
+      "latitude":8.082548658176936,  
+      "longitude":  77.55122287596737,
+      "contactNumber": "04652247841",
+      "website": "https://www.hotelseaview.in/",
+      "photos": ["assets/images/rooms/r12.jpg", "assets/images/rooms/r13.jpg", "assets/images/rooms/r14.jpg"],
+      "openingTime": "2:00 PM",
+      "closingTime": "12:00 PM"
+    },
+    {
+      "name":"Hotel Tri Sea,Kanyakumari",
+      "description":"Hotel Tri Sea in Kanyakumari is a popular choice for travelers seeking a comfortable stay with modern amenities and stunning ocean views. Conveniently located near key attractions, this hotel provides a pleasant and memorable experience for both leisure and business travelers." ,
+      "address": "Kovalam Rd, Kanniyakumari, Tamil Nadu 629702",
+      "latitude": 8.08167406573335,  
+      "longitude":77.54863706867943,
+      "contactNumber": "09487817474",
+      "website": "http://www.hoteltrisea.com/",
+      "photos": ["assets/images/rooms/r15.jpg", "assets/images/rooms/r16.jpg", "assets/images/rooms/r17.jpg"],
+      "openingTime": "12:00 AM",
+      "closingTime": "12:00 PM"
+    },
+    {
+      "name":"Hotel Udupi International,Nagercoil",
+      "description":"Hotel Udupi International in Nagercoil is a well-regarded establishment known for its warm hospitality, comfortable accommodations, and convenient location. Situated in the bustling area of Nagercoil, the hotel offers easy access to business hubs, shopping areas, and popular tourist spots. " ,
+      "address": "Vadasery, Nagercoil, Tamil Nadu 629001",
+      "latitude": 8.191875164653402,  
+      "longitude":77.42861127750997,
+      "contactNumber": "9487261898",
+      "website": "https://www.udupiinternational.com/",
+      "photos": ["assets/images/rooms/r18.jpg", "assets/images/rooms/r19.jpg", "assets/images/rooms/r20.jpg"],
+      "openingTime": "12:00 AM",
+      "closingTime": "12:00 PM"
+    },
+    {
+      "name":"Hotel Pioneer Grand Palace,Nagercoil",
+      "description":"Hotel Pioneer Grand Palace in Nagercoil offers a blend of luxury, comfort, and exceptional service, making it a premier choice for both business and leisure travelers. Conveniently located in the heart of the city, the hotel provides easy access to business districts, shopping centers, and local attractions." ,
+      "address": "Tower Junction, Nagercoil, Tamil Nadu 629001",
+      "latitude":8.184796372151036,
+      "longitude": 77.43126025299492,
+      "contactNumber": "09488819043",
+      "website": "https://www.pioneergrandpalace.com/",
+      "photos": ["assets/images/rooms/r21.jpg", "assets/images/rooms/r22.jpg", "assets/images/rooms/r23.jpg"],
+      "openingTime": "11:00 AM",
+      "closingTime": "12:00 PM"
+    },
+    {
+      "name":"Hotel Lance International, Nagercoil",
+      "description":"Hotel Lance International in Nagercoil is a distinguished hotel known for its elegant accommodations, excellent service, and strategic location. Situated in the vibrant part of Nagercoil, the hotel provides convenient access to major business areas, shopping centers, and local attractions." ,
+      "address": "Nesamoni nager, Nagercoil, Tamil Nadu 629001",
+      "latitude":8.178459397982909, 
+      "longitude":77.41466129853353 ,
+      "contactNumber": "07092288822",
+      "website": "http://www.hotellance.com/",
+      "photos": ["assets/images/rooms/r24.jpg", "assets/images/rooms/r25.jpg", "assets/images/rooms/r26.jpg"],
+      "openingTime": "11:00 AM",
+      "closingTime": "12:00 PM"
+    },
+    {
+      "name": "KKM International Marthandam",
+      "description": "Utilitarian rooms in a down-to-earth hotel offering a restaurant with buffet-style dining.",
+      "address": "Kulasekharam Road, Pammam, Marthandam, KK Dist - 629165",
+     "latitude":8.30660642484786, 
+     "longitude":77.23317654262077,
+     "contactNumber": "7598377774",
+     "website": "https://www.kkminternational.co.in/",
+     "photos": ["assets/images/rooms/r27.jpg", "assets/images/rooms/r28.jpg", "assets/images/rooms/r29.jpg"],
+     "openingTime": "11:00 AM",
+     "closingTime": "12:00 PM"         
+    },
+    {
+     "name": "Elite Residency,Thuckalay",
+     "description": "A budget-friendly hotel offering basic accommodations and essential amenities.",
+     "address": "Thuckalay, Kanyakumari District, Tamil Nadu 629175",
+     "latitude":8.24944866999813,  
+     "longitude":77.31396550106744,
+     "contactNumber": "+91 94872 53333",
+     "photos": ["assets/images/rooms/r30.jpg", "assets/images/rooms/r31.jpg", "assets/images/rooms/r32.jpg"],
+     "openingTime": "11:00 AM",
+     "closingTime": "12:00 PM" 
+    },
+    {
+     "name": "The Hotel Park,Colachel",
+     "description": "A budget-friendly hotel offering basic accommodations and essential amenities.",
+     "address": "Colachel, Kanyakumari District, Tamil Nadu 629251",
+     "latitude":8.179265866731699, 
+     "longitude":77.25384419123844 ,
+     "contactNumber": "09488035687",
+     "website": "https://www.thehotelpark.com/",
+     "photos": ["assets/images/rooms/r33.jpg", "assets/images/rooms/r34.jpg", "assets/images/rooms/r35.jpg"],
+     "openingTime": "11:00 AM",
+     "closingTime": "12:00 PM" 
+    }
+]

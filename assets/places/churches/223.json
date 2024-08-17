@@ -1,0 +1,19 @@
+{
+    "name": "Christ The King Malankara Syriac Catholic Cathedral Marthandam",
+    "description": ["This church is the head of eparchy of marthandam.It follow the Malankara catholic rite."],
+    "image": [
+      "churches/223-a.jpg", 
+      "churches/223-b.jpg",
+      "churches/223-c.jpg"],
+    "location" : "Marthandam, Tamil Nadu 629165",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.314028089036716, 77.22395220937423",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

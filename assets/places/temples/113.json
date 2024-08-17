@@ -1,0 +1,31 @@
+{
+    "name": "Mutharamman Temple",
+    "description": ["Arulmigu Mutharaman Temple is dedicated to Goddess Mutharamman. The temple is known for its traditional rituals and annual festivals, which draw large crowds of devotees. It is situated in a scenic area, enhancing the spiritual experience for visitors."],
+    "image": [
+      "temples/t113-a.jpg", 
+      "temples/t113-b.jpg", 
+      "temples/t113-c.jpg"],
+    "location" : "Kulasekharam, Tamil Nadu 629161",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.3686178560136, 77.28712613872325",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

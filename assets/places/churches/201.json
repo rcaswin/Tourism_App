@@ -1,0 +1,20 @@
+{
+    "name": "All Saints Church",
+    "description": ["Muttom's All Saints Church stands out as one of the most iconic places of worship in the area. The place has gained huge popularity with nearly 800 supporters, along with a well-known tourist destination. This congregation stands on the scenic coast of the Bay of Bengal, bordered by mesmerizing blue waters. This conclave has been set up perfectly, framed by water & roads. It is a catholic church and has innate Portuguese principle amid the period 1875-1914. The Portuguese artistry is showcased through the impressive external aesthetics and the simplistic yet extraordinary interiors of their buildings. It's a brilliant example of architectural finesse that is difficult to match."],
+    "image": [
+      "churches/201-a.png", 
+      "churches/201-b.png", 
+      "churches/201-c.png"],
+    "location" : "Muttom, Church Rd, Muttom, Tamil Nadu 629202",
+    "categorycodes": "Church",
+    "districtcode": "30",
+   "latlongvalue": "8.124155725330809, 77.32167458583596",
+    
+    "visitingtime": {
+      "starttime": "06:00 AM",
+      "closingtime": "12:00 AM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

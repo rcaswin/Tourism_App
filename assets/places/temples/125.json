@@ -1,0 +1,29 @@
+{
+    "name": "Arulmigu Sri Chandana Mari Amman Temple",
+    "description": ["Sri Chandana Mari Amman Temple is a revered Hindu temple dedicated to Goddess Mariamman, who is widely worshipped in Tamil Nadu as the goddess of rain, fertility, and protection against diseases. The temple is known for its serene atmosphere and traditional South Indian architectural style. Devotees flock to the temple to seek blessings for health, prosperity, and protection from various ailments. The temple celebrates vibrant festivals, particularly the annual Mariamman festival, which includes processions, special poojas, and community gatherings that attract large numbers of devotees."],
+    "image": [
+      "temples/t125-b.jpg"],
+    "location" : "Boothapandi, Tamil Nadu 629852",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.265791467008038, 77.44066470011175",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

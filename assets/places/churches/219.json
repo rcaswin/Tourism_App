@@ -1,0 +1,19 @@
+{
+    "name": "St.Mary;s Basilica",
+    "description": ["The first church was constructed in 1912 . It took eight years to complete the building works.St Mary’s Church bell was brought from (France in the year 1891 by Fr. Victor. St Mary’s staticte which was made is a single piece of wood was also brought from Belgiuim by Fr. Victor. The painting picture of St. Mary 8” x 4” size which was at the right side of the alter Bishop Aloysius Maria Benziger 1905 - 1931 presented.It was declared as Minor Basilica by The Pope in 2020.It is the 7th Basilica in Tamilnadu and the First Basilica in Kanniyakumari District."],
+    "image": [
+      "churches/219-a.jpg", 
+      "churches/219-b.jpg",
+      "churches/219-c.jpg"],
+    "location" : "Mulagumoodu, Tamil Nadu 629167",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.263739393532544, 77.28846234321763",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

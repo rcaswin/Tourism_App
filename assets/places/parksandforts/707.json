@@ -1,0 +1,20 @@
+{
+    "name": "Udhayagiri Fort",
+      "description": ["Udayagiri Fort is one of the most prominent tourist stopovers in the city. Also known as De Lannoy’s Fort or Dillani Kottai, it is a remnant of the regime of Travancore. The fort is surrounded by an isolated hill about 260 high and was used as a training ground for the king’s army. Remains of the furnace used for making ammunition stand as a testimony to the fact. Interestingly, it is said that a brass gun, 16-ft-long, was found in the fort complex but could not be moved even a few feet by a number of people including 16 elephants. Now, the fort has been turned into a natural park and one can find a tree house, herbal gardens, bird and deer enclosures and an aquarium."],
+      "image": [
+        "parksandforts/707-a.jpg", 
+        "parksandforts/707-b.jpg", 
+        "parksandforts/707-c.jpg"],
+      "location" : "Puliyoorkurichi, Thiruvananthapuram-Nagercoil National Highway, Kanniyakumari, Tamil Nadu, 629702, India",
+      "categorycodes": "parksandforts",
+      
+      "latlongvalue": "8.242861674013987, 77.33990991371326",
+     
+      "visitingtime": {
+        "starttime": "08:00 AM",
+        "closingtime": "07:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

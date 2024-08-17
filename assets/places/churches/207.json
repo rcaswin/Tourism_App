@@ -1,0 +1,19 @@
+{
+    "name": "St. Catherine Church",
+    "description": ["St. Catherine Church at Adthiyanthurai (Eraviputhenthurai) was built under the Diocese of Cochin. The church was dedicated to St. Catherine of Alexandria and was constructed by English missionaries. Unfortunately, towards the end of the 19th century, this village experienced a devastating flood that caused great destruction.The name of the new settlement was bestowed by its residents - Puthenthurai, derived from two words meaning 'new' and 'coastal village'. This place henceforth became known as Santa Catherina Puthenthurai (St catherineputhenthurai)."],
+    "image": [
+      "churches/207-a.jpg", 
+      "churches/207-b.jpg", 
+      "churches/207-c.jpg"],
+    "location" : "St. Catherine Church Street, Eraviputhenthurai, Tamil Nadu 629176",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.26582875638211, 77.1355999",
+    "visitingtime": {
+      "starttime": "06:00 AM",
+      "closingtime": "09:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

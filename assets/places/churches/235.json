@@ -1,0 +1,19 @@
+{
+    "name": "St. Antony's Church",
+    "description": ["This church was newly build and opened in 2024.Many devotees from various religions come and pray here."],
+    "image": [
+      "churches/235-a.jpg", 
+      "churches/235-b.jpg",
+      "churches/235-c.jpg"],
+    "location" : "Thirunainarkurichy, Tamil Nadu 629204",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.161641279687474, 77.31944139452399",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

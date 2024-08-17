@@ -1,0 +1,31 @@
+{
+    "name": "Chitharal Jain Monuments and Temple",
+    "description": ["Chitharal Jain Monuments and Temple, also known as Chitharal Malai Kovil, are ancient Jain temples carved into rocks, dating back to the 9th century. These monuments are dedicated to Tirthankaras and are significant for their historical and archaeological importance. The site offers scenic views and is a peaceful spot for visitors."],
+    "image": [
+      "temples/t108-a.jpg", 
+      "temples/t108-b.jpg", 
+      "temples/t108-c.jpg"],
+    "location" : "Vellamcode, Tamil Nadu 629151",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.332655932253815, 77.23833315065193",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "7:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

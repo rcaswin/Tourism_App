@@ -1,0 +1,21 @@
+{
+    "name": "Baywatch theme Park",
+    "description": ["Baywatch Kanyakumari is a highly modernized water theme amusement park in Kanyakumari,Tamil Nadu which houses a number of joyrides. It is special in the sense that the standard of the park is at par with any internationally recognized amusement park. With time, the park has become very with tourists from all over India, especially children. Also, locals have now a new hangout to take the entire family for a weekend chill out.The other feature of the park is the Wax museum, the only one of its kind in Asia. The Madamae Tassaud's wax museum is about the only other museum, which can be compared to this one. The similarity of the max statutes to real life form is amazing to watch. They are the works of expert wax sculptors."],
+    "image": [
+      "ecotoursim/521-a.jpg", 
+      "ecotoursim/521-b.jpg",
+      "ecotoursim/521-c.jpg",
+      "ecotoursim/521-d.jpg",
+      "ecotoursim/521-e.jpg",
+      "ecotoursim/521-f.jpg"],
+    "location" : "Kovalam Rd, Kanniyakumari, Tamil Nadu 629702",
+    "categorycodes": "Theme Park",
+    "latlongvalue": "8.082406114610096, 77.53344755075484",
+    "visitingtime": {
+        "starttime": "09:30 AM",
+        "closingtime": "06:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

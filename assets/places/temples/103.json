@@ -1,0 +1,31 @@
+{
+    "name": "Suchindram Thanumalayan Temple",
+    "description": ["Suchindram Thanumalayan Temple, also known as the Sthanumalayan Temple, is dedicated to the trinity of Brahma, Vishnu, and Shiva. The temple is known for its magnificent architecture, including the 22-feet high musical pillars and the 134-foot tall gopuram. The temple also features intricate carvings and sculptures, making it a significant historical and cultural site."],
+    "image": [
+      "temples/t103-a.jpg", 
+      "temples/t103-b.jpg", 
+      "temples/t103-c.jpg"],
+    "location" : " Vivekananda Junction, Suchindram, Tamil Nadu 629704",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.154971195777824, 77.46511545580987",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "+91 4651 240 233"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "4:30 AM",
+      "closingtime": "8:30 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

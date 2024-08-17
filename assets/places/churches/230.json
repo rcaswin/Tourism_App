@@ -1,0 +1,19 @@
+{
+    "name": "St. Ignatius Church",
+    "description": ["This church was dedicated to Saint Ignatius.It serves as the part of Kottar roman catholic diocese."],
+    "image": [
+      "churches/230-a.jpg", 
+      "churches/230-b.jpg",
+      "churches/230-c.jpg"],
+    "location" : " Kurumpanai, Tamil Nadu 629251",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.189754319628706, 77.23105934740725",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

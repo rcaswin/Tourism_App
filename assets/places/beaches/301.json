@@ -1,0 +1,15 @@
+{
+    "name": "Chothavillai Beach",
+    "description": [
+      "The chotha Vilai Beach is one of the most famous beaches that can be found in the entire district of Kanniyakumari in Tamil Nadu. This beach is an offbeat attraction, which means that many people do not know about it, but the beach does deserve more attention than what it gets. Boasting an impressive 4km stretch, this beach is the longest natural beach in the area and offers a breathtakingly beautiful experience that is impossible to put into words. The glistening white sand with high dunes and the clear, pure water extending indefinitely to meet the horizon miles and miles away is indeed a sight to behold."
+    ],
+    "image": [
+      "beaches/301-a.jpg",
+      "beaches/301-b.jpg",
+      "beaches/301-c.jpg",
+      "beaches/301-d.jpg"
+    ],
+    "location": "Kanniyakumari, Tamil Nadu 629602",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.093365693964849, 77.45544320920072"
+}

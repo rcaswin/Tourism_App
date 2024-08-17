@@ -1,0 +1,20 @@
+{
+    "name": "St Thomas children's park",
+      "description": ["St. Thomas Children's Park is a delightful recreational area located in Kanyakumari, Tamil Nadu, India. It is dedicated to providing a fun and safe environment for children to play and explore. The park features playground equipment, including slides, swings, and climbing structures, designed to cater to various age groups. Set amidst lush greenery, it offers families a serene retreat where children can enjoy outdoor activities and parents can relax. St. Thomas Children's Park is a favorite among locals and visitors alike for its vibrant atmosphere and facilities aimed at fostering joyful experiences for kids."],
+      "image": [
+        "parksandforts/714-a.jpg", 
+        "parksandforts/714-b.jpg", 
+        "parksandforts/714-c.jpg"],
+      "location" : "5GCQ+8CC, Unnamed Road, Thekkumalai R.F., Thirumulanagar, Tamil Nadu 627114",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.171133999439084, 77.53847771572251",
+     
+      "visitingtime": {
+        "starttime": "08:30 AM",
+        "closingtime": "06:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]  
+}

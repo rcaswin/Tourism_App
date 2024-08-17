@@ -1,0 +1,31 @@
+{
+    "name": "Vettuvenni Uthrapathiyar Temple",
+    "description": ["Vettuvenni Uthrapathiyar Temple is dedicated to Lord Vishnu. The temple is known for its peaceful surroundings and traditional architecture. It is an important spiritual center for the local community."],
+    "image": [
+      "temples/t114-a.jpg", 
+      "temples/t114-b.jpg", 
+      "temples/t114-c.jpg"],
+    "location" : "NH47, Marthandam, Tamil Nadu 629165",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.311359520953303, 77.21021959561399",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

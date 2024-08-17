@@ -1,0 +1,31 @@
+{
+    "name": "Lord Subramanya Temple, Kumaracoil",
+    "description": ["Lord Subramanya Temple, also known as Kumaracoil Temple, is dedicated to Lord Murugan. This temple is situated amidst lush greenery and is known for its peaceful atmosphere. The temple attracts devotees, especially during the festival of Thaipusam."],
+    "image": [
+      "temples/t110-a.jpg", 
+      "temples/t110-b.jpg", 
+      "temples/t110-c.jpg"],
+    "location" : "Velimalai Sri Kumaraswamy Temple, Kumaracoil, Tamil Nadu 629301",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.243577541373567, 77.35042958212077",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "5:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

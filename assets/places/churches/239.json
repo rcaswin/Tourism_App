@@ -1,0 +1,19 @@
+{
+    "name": "St. Devasahayam Church",
+    "description": ["This church is the first church dedicated St.Devasahayam.He is the first saint from tamilnadu and he is the first Indian layman to reach the sainthood."],
+    "image": [
+      "churches/239-a.jpg", 
+      "churches/239-b.jpg",
+      "churches/239-c.jpg"],
+    "location" : "Nattalam, Tamil Nadu 629169",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.146154730062106, 77.53981689088724",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

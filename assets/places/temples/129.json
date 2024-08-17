@@ -1,0 +1,29 @@
+{
+    "name": "Thirunanthikarai Kudaivarai Kovil",
+    "description": ["Thirunanthikarai Kudaivarai Kovil, also known as the Thirunanthikarai Rock-cut Cave Temple, is an ancient temple dedicated to Lord Shiva. This historical temple is carved into a rock, showcasing remarkable architectural and artistic skills from the Pallava period. The temple features a rock-cut shrine, intricate carvings, and sculptures that depict various deities and mythological scenes. Devotees visit this temple to seek blessings from Lord Shiva and to marvel at the exquisite craftsmanship of the rock-cut architecture. The temple is a serene place for worship and meditation, providing a peaceful retreat for devotees and history enthusiasts alike."],
+    "image": [
+      "temples/t129-b.jpg"],
+    "location" : "Thirunanthikarai, Tamil Nadu 629161",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.399515831058077, 77.29729292374964",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 AM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

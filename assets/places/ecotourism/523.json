@@ -1,0 +1,20 @@
+{
+    "name": "Mathoor Hanging Bridge",
+    "description": ["Mathoor hanging bridge is a concrete structure supported by 28 huge pillars, the maximum height of the pillars reaching 115 ft. The trough structure is 7 ft in height, with a width of 7.5 ft. The trough is partly covered with concrete slabs, allowing people to walk on the bridge and to see the water going through the trough. Some of the pillars are set in rocks of the Pahrali river, though some of the pillars are set in hills on either side.The bridge has been constructed at Mathoor across the river Parazhiyar at a cost of Rs. 12.90/- lakhs.There is road access to one end of the aqueduct and to the foot of the aqueduct (the level where the Pahrali flows) on the opposite side. There is a huge flight of stairs, made more recently, that allows one to climb from the level of the Pahrali river to the trough.Irrigation water flows through the trough for a large part of the year, except in the summer"],
+    "image": [
+      "ecotoursim/523-a.jpg", 
+      "ecotoursim/523-b.jpg",
+      "ecotoursim/523-c.jpg",
+      "ecotoursim/523-d.jpg",
+      "ecotoursim/523-e.jpg"],
+    "location" : "87PV+7J, Mathoor, Tamil Nadu 629161",
+    "categorycodes": "Bridge",
+    "latlongvalue": "8.337769288863255, 77.29296017499432",
+    "visitingtime": {
+        "starttime": "07:00 AM",
+        "closingtime": "07:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

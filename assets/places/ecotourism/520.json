@@ -1,0 +1,21 @@
+{
+    "name": "Chitharal Rock Jain Temple",
+    "description": ["The Chitharal Jain Monuments and Bhagavati Temple, also known as Chitharal Malai Kovil (literally Temple on the Hill), Chitaral Cave Temple or Bhagavati Temple, are located near Chitharal village in Kanyakumari district, Tamil Nadu, India. They consist of stone beds with inscriptions, and two monuments – one rock cut Jain temple with outer wall reliefs and one Hindu goddess temple next to it that is a combination of rock-cut and stone that was added during the reign of Vikramaditya Varaguna Pandya. The monuments are from the 9th century CE.The Chitharal Jain Monuments and Bhagavati Temple are situated near the southern tip of peninsular India, about 55 kilometers northwest of Kanyakumari (Highway 66) and about 4 kilometers northeast of Kuzhittura town (Highway 90). They are on the Thiruchanattu Malai (Thiruchanattu hillocks) locally known as Chokkanthoongi Hills. The monuments are on the north side of Chitharal village. The monuments' entrance is marked and is under the management of ASI Thrissur circle. From the entrance board, they can be reached by roughly hewn steps in rocks uphill, midst cashew, coconut and rubber-plantation trees. "],
+    "image": [
+      "ecotoursim/520-a.jpg", 
+      "ecotoursim/520-b.jpg",
+      "ecotoursim/520-c.jpg",
+      "ecotoursim/520-d.jpg",
+      "ecotoursim/520-e.jpg",
+      "ecotoursim/520-f.jpg"],
+    "location" : "86JQ+W9V, Vellamcode, Tamil Nadu 629151",
+    "categorycodes": "Temple",
+    "latlongvalue": "8.332826171273526, 77.23858750445591",
+    "visitingtime": {
+        "starttime": "08:00 AM",
+        "closingtime": "04:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

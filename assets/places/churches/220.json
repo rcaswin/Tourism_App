@@ -1,0 +1,19 @@
+{
+    "name": "St.Alphonsa's Shrine Church",
+    "description": ["The Syro Malabar Catholics living in and around Nagercoil had to attend liturgical services and receive the sacraments in the Latin Rite until 1985.Blessed Alphonsa Church was blessed on 10th September,1989 by Rev.Fr.Mathew Vakkayil, the then Syro Malabar Catholic Christians' Mission Co-ordinator of Kanyakumari District. This is the first Church in Tamil Nadu in the name of St.Alphonsa.In the beginning, the parish had 15 families as members. By 2008, the number of families has gone up to 85. When the Syro Malabar Diocese of Thuckalay was erected in November 1996, the church came under its jurisdiction and episcepal care."],
+    "image": [
+      "churches/220-a.jpg", 
+      "churches/220-b.jpg",
+      "churches/220-c.jpg"],
+    "location" : "Nagercoil, Tamil Nadu 629002",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.163382094936011, 77.42666675051613",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Our lady of Perpectual Succour Church",
+    "description": ["A holy place to spent time with family. Mostly people visit the church on wednesday to workship, because  of the special mass on that day. While visiting the church we can see people from different religion"],
+    "image": [
+      "churches/218-a.jpg", 
+      "churches/218-b.jpg",
+      "churches/218-c.jpg"],
+    "location" : "Vazhukamparai, Tamil Nadu 629403",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.15328147234508, 77.4834811791876",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Kaalikesam Waterfalls",
+    "description": ["This place is some 35  km from Nagercoil. There are buses from Nagercoil to this place but the frequency is low. Bus no. for this route is 4, 4A from Nagercoil and 330 from marthandam. In which the bus only one time goes to kalekesam around mid-noon time and there will be a special bus for here for full days during the festival season such as full moon days and other Tamil festive seasons. The best way to visit here is by your own transportation. By going on your own transportation you need to get an entry ticket from the check post, it's available near the keeriparai police station. Go slow and drive safely.Previously it was a remote place that attracted many for drinking liquor and other illegal activities. At present, there is a check post provided to avoid these illegal activities within these forest areas. There is only one small shop that sells tea and biscuits. "],
+    "image": [
+      "ecotoursim/512-a.jpg", 
+      "ecotoursim/512-b.jpg",
+      "ecotoursim/512-c.jpg",
+      "ecotoursim/512-d.jpg"],
+    "location" : "7C97R+7Q Veerapuli R.F., Tamil Nadu, India.",
+    "categorycodes": "Waterfalls",
+    "latlongvalue": "8.413228426757248, 77.39187954232885",
+    "visitingtime": {
+        "starttime": "09:00 AM",
+        "closingtime": "03:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

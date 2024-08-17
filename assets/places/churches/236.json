@@ -1,0 +1,19 @@
+{
+    "name": "St. Matthew's Church",
+    "description": ["This church was dedicated to one the apostles of Jesus called Mathew."],
+    "image": [
+      "churches/236-a.jpg", 
+      "churches/236-b.jpg",
+      "churches/236-c.jpg"],
+    "location" : "Pallam, Tamil Nadu 629601",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.099199992792762, 77.43296791676126",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

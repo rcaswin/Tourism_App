@@ -1,0 +1,19 @@
+{
+    "name": "Chittar Dam – 1",
+    "description": ["Chittar Dam – 1 is a reservoir located at Pechiparai Village in Kanyakumari District of Tamilnadu. Chittar dams were constructed as part of the Kodayar System Major Irrigation Project. There are 2 dams, namely, Chittar-1 and Chittar-2 in which the latter being larger. The reservoirs and dams are controlled by the Tamil Nadu state electricity board. The Chittar Reservoir is built on the Chittar River. This river and its five tributaries originate in the Courtallam hills in the state of Tamil Nadu in southern India. "],
+    "image": [
+      "ecotoursim/517-a.jpg", 
+      "ecotoursim/517-b.jpg",
+      "ecotoursim/517-c.jpg",
+      "ecotoursim/517-d.jpg"],
+    "location" : "C7M2+F5Q,Alancholai, Tamil Nadu 629101  Chittar Dam 1, Vilavancode, Kanniyakumari District, Tamil Nadu, 629101",
+    "categorycodes": "Dam",
+    "latlongvalue": "8.446924907701868, 77.27599710263816",
+    "visitingtime": {
+        "starttime": "09:00 AM",
+        "closingtime": "05:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

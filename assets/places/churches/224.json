@@ -1,0 +1,19 @@
+{
+    "name": "St. Anthony's Church",
+    "description": ["There are stories about the origin of Christianity in this place. The much believed one is that one fisher woman after having sold the fish happened to spend the night at a lonely place. Being a devotee of St. Antony she prayed for her protection and then she happened to see a light at night. This incident is told to be repeated the following days of her stay in the village. She was sure it was a sign of divine protection and so pleaded the parish priest of Kottar to erect a Holy Cross on the spot."],
+    "image": [
+      "churches/224-a.jpg", 
+      "churches/224-b.jpg",
+      "churches/224-c.jpg"],
+    "location" : "Kurusady, Nagercoil, Tamil Nadu 629004",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.157081282565208, 77.4109013219801",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

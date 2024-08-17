@@ -1,0 +1,31 @@
+{
+    "name": "KanniyaKumari Amman Temple",
+    "description": ["Kanyakumari Temple, also known as the Bhagavathy Amman Temple, is one of the 108 Shakti Peethas dedicated to the goddess Kanya Kumari. The temple is situated at the confluence of the Bay of Bengal, the Arabian Sea, and the Indian Ocean, making it a unique spiritual and geographical location. The temple is renowned for its beautiful idol of the goddess, adorned with a diamond nose ring that is said to be visible from the sea."],
+    "image": [
+      "temples/t102-a.jpg", 
+      "temples/t102-b.jpg", 
+      "temples/t102-c.jpg"],
+    "location" : "Temple Rd, Kanniyakumari, Tamil Nadu 629702",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.080549389227722, 77.55097025157473",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "4:30 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "Free"
+    ]
+  }

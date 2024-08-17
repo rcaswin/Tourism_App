@@ -1,0 +1,21 @@
+{
+    "name": "Udayagiri Fort",
+    "description": ["Udayagiri fort is located at a distance of 14 km from Nagercoil town in Kanyakumari District, Tamil Nadu. It had been originally built in the 1600s, and then rebuilt by the King Marthanda Varma of Travancore during 1741-44 under the supervision of Eustachius De Lannoy, a flemish naval commander of the Dutch East India Company, who later served as the Chief of the Travancore Army.Enclosing an area of about 90 acres (36 ha), with an isolated hill 260 feet (79 m) high, the fort contains an old foundry which was used for casting guns.This was the most important military barracks of the Travancore rulers, when Padmanabhapuram was their capital. Prisoners captured in the campaign against Tippu Sultan were confined in this fort for some time. The fort is built of massive granite blocks around an isolated hillock."],
+    "image": [
+      "ecotoursim/528-a.jpg", 
+      "ecotoursim/528-b.jpg",
+      "ecotoursim/528-c.jpg",
+      "ecotoursim/528-d.jpg",
+      "ecotoursim/528-e.jpg",
+      "ecotoursim/528-f.jpg"],
+    "location" : "Puliyoorkurichi, Kanyakumari, Tamil Nadu 629175",
+    "categorycodes": "Fort",
+    "latlongvalue": "8.242942079591868, 77.33493089615855",
+    "visitingtime": {
+        "starttime": "09:00 AM",
+        "closingtime": "05:00 PM"
+      },
+    "holiday": [
+      "Monday"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Thiruvaazhmaarban Temple,Thiruppathisaram",
+    "description": ["Thiruvaazhmaarban Temple, located in Thiruppathisaram, is a revered Hindu temple dedicated to Lord Vishnu, worshipped here as Thiruvaazhmaarban. The temple holds great historical and religious significance, being one of the 108 Divya Desams, the holy abodes of Lord Vishnu as praised by the Alwars (saints). The temple's architecture is a fine example of traditional South Indian style, with intricate carvings and a serene sanctum that provides a peaceful atmosphere for worship. Devotees visit the temple to seek blessings for health, prosperity, and spiritual well-being. The temple is especially vibrant during festivals and religious occasions, attracting pilgrims from various regions."],
+    "image": [
+      "temples/t121-b.jpg", 
+      "temples/t121-c.jpg"],
+    "location" : "Thiruppathisaram, Nagercoil, Kanyakumari District, Tamil Nadu 629901",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.210093980085569, 77.44720052059637",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "+91 4652 263 373"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

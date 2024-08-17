@@ -1,0 +1,15 @@
+{
+    "name": "Periyakadu Beach",
+    "description": [
+        "Periyakadu Beach is a hidden gem located near Kanyakumari, Tamil Nadu. Known for its pristine sands and serene environment, this beach is perfect for those seeking solitude and natural beauty. The tranquil waters and untouched surroundings make Periyakadu Beach an ideal spot for peaceful retreats and leisurely walks along the shore."
+    ],
+    "image": [
+        "beaches/315-a.jpg",
+        "beaches/315-b.jpg",
+        "beaches/315-c.jpg",
+        "beaches/315-d.jpg"
+    ],
+    "location": "Periyakadu, Kanniyakumari, Tamil Nadu, 629701, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.111399508006897, 77.38797195119375"
+}

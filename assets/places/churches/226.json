@@ -1,0 +1,19 @@
+{
+    "name": "Our Lady Of Presentation  Church",
+    "description": ["This church was dedicated to Our Lady of Presentation.It serves as the head of vicariate of colachel in kottar diocese"],
+    "image": [
+      "churches/226-a.jpg", 
+      "churches/226-b.jpg",
+      "churches/226-c.jpg"],
+    "location" : "Colachel, Tamil Nadu 629251",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.217919360091747, 77.18846273665338",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

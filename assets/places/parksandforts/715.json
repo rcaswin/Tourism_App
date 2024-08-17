@@ -1,0 +1,20 @@
+{
+    "name": "Nanjil Grandeur Lawn Banquet Centre Monday Market",
+      "description": ["Naanjil Grandeur Lawn Banquet Centre is a distinguished venue located in Kanyakumari, Tamil Nadu, India, known for hosting grand events and celebrations. It offers expansive lawns and banquet halls designed to accommodate large gatherings such as weddings, receptions, and corporate events. The center is renowned for its luxurious amenities, elegant decor, and professional services, ensuring memorable experiences for guests. With its strategic location and spacious facilities, Naanjil Grandeur Lawn Banquet Centre is a preferred choice for hosting prestigious events in Kanyakumari."],
+      "image": [
+        "parksandforts/715-a.jpg", 
+        "parksandforts/715-b.jpg", 
+        "parksandforts/715-c.jpg"],
+      "location" : "Nadutheri,Mankuzhi, Road, Thingalnagar, Tamil Nadu 629802",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.19890750009378, 77.3028439733934",
+     
+      "visitingtime": {
+        "starttime": "12:00 AM",
+        "closingtime": "12:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]  
+}

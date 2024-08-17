@@ -1,0 +1,31 @@
+{
+    "name": "Arulmiku Sri Nagaraja Temple",
+    "description": ["Nagaraja Temple is dedicated to Nagaraja, the serpent god, and is one of the few temples in India where snakes are worshipped. The temple has a unique architecture with its main deity being a five-headed serpent. The temple premises also house shrines for Shiva and Anantha Krishna. Devotees believe that the soil inside the temple has curative properties for skin ailments."],
+    "image": [
+      "temples/t105-a.jpg", 
+      "temples/t105-b.jpg", 
+      "temples/t105-c.jpg"],
+    "location" : "Ozhuginasery, Nagercoil, Tamil Nadu 629001",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.187863795568768, 77.43334972444843",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "4:00 AM",
+      "closingtime": "8:30 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "Erayumanthurai Fishing Harbour",
+    "description": ["Erayumanthurai Fishing Harbour, nestled in Kanyakumari district, not only sustains local fishing communities but also acts as a vibrant hub for seafood trade. Its scenic coastal location attracts visitors interested in maritime culture and fresh catches."],
+    "image": [
+      "harbors/605-a.jpg", 
+      "harbors/605-b.jpg", 
+      "harbors/605-c.jpg"],
+    "location" : "65Q8+VFF, Ezhudesam, Tamil Nadu 629173",
+    "categorycodes": "harbours",
+   
+    "latlongvalue": "8.23985432727945, 77.1661762504749",
+   
+    "holiday": [
+      "Open All Days"
+    ],
+    "entryfee" : [
+        "Free"
+    ]
+}

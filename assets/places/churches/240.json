@@ -1,0 +1,19 @@
+{
+    "name": "Our Lady of Assumption Malankara Catholic Church",
+    "description": ["This church was deicated to Ou lady of Assumption.It follows the Malankara catholic rite in the rituals."],
+    "image": [
+      "churches/240-a.jpg", 
+      "churches/240-b.jpg",
+      "churches/240-c.jpg"],
+    "location" : "Pilankalai, Tamil Nadu 629166",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.274342996522654, 77.29626337595558",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

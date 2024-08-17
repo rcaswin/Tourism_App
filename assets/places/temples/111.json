@@ -1,0 +1,31 @@
+{
+    "name": "Thiruparappu Mahadevar Temple",
+    "description": ["Thiruparappu Mahadevar Temple is dedicated to Lord Shiva and is located near the scenic Thiruparappu Waterfalls. The temple is known for its beautiful location and the stunning waterfall that flows nearby, adding to the spiritual and natural beauty of the place."],
+    "image": [
+      "temples/t111-a.jpg", 
+      "temples/t111-b.jpg", 
+      "temples/t111-c.jpg"],
+    "location" : "Tiruparapu, Tamil Nadu 629151",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.39232578236823, 77.25976148027145",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

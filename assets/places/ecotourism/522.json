@@ -1,0 +1,21 @@
+{
+    "name": "Kanyakumari Wildlife Sanctuary",
+    "description": ["Kanyakumari Wildlife Sanctuary is a 402.4 km2 (155.4 sq mi) protected area in Kanyakumari district, Tamil Nadu, South India declared in February 2008. The area is a tiger habitat. Seven rivers originate in the forest including the Thamirabarani River and Pahrali River.The region is one of the most diverse wildlife forest location in India. Several new species of plants, amphibians and insects discovered here are found nowhere else, making it an endemic region.The area is a wildlife corridor with high biodiversity, and in addition to tigers, is home to the threatened species: Indian bison, elephant, Indian rock python, lion-tailed macaque, mouse deer, Nilgiri tahr and sambar deer.There are a few tribal villages in the sanctuary and adjoining reserve forests."],
+    "image": [
+      "ecotoursim/522-a.jpg", 
+      "ecotoursim/522-b.jpg",
+      "ecotoursim/522-c.jpg",
+      "ecotoursim/522-d.jpg",
+      "ecotoursim/522-e.jpg",
+      "ecotoursim/522-f.jpg"],
+    "location" : "FCQ5+379, Veerapuli R.F., Tamil Nadu 627420",
+    "categorycodes": "Sanctuary",
+    "latlongvalue": "8.487874976710312, 77.4080812265513",
+    "visitingtime": {
+        "starttime": "06:00 AM",
+        "closingtime": "06:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Rasthakaadu Beach",
+    "description": [
+        "Rasthakaadu Beach is a tranquil and beautiful beach located near Kanyakumari, Tamil Nadu. Known for its serene atmosphere and pristine natural surroundings, Rasthakaadu Beach offers a peaceful retreat for visitors. The beach is perfect for those looking to relax and enjoy the scenic beauty of the coastline."
+    ],
+    "image": [
+        "beaches/322-a.jpg",
+        "beaches/322-b.jpg",
+        "beaches/322-c.jpg",
+        "beaches/322-d.jpg"
+    ],
+    "location": "Rasthakaadu, Kanniyakumari, Tamil Nadu, 629702, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.135373155379183, 77.57610035119403"
+}

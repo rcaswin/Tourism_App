@@ -1,0 +1,19 @@
+{
+    "name": "Immaculate Heart of Mary Church",
+    "description": ["This church was dedicated to the Immaculate Heart of Mary.It was separated from the Puthenthurai Parish."],
+    "image": [
+      "churches/232-a.jpg", 
+      "churches/232-b.jpg",
+      "churches/232-c.jpg"],
+    "location" : " Kesavanputhenthurai, Tamil Nadu 629501",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.106221250393393, 77.40880955066642",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

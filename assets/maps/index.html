@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Custom Waypoint Icons</title>
+    <meta charset="utf-8" />
+    <!-- Leaflet CSS/js -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://app.nflipbk.com/packages/bootstrap-5.3.1-dist/css/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="lib/leaflet/leaflet.css">
+    <link rel="stylesheet" type="text/css" href="leaflet-routing-machine.css">
+    <style>
+        body {
+            margin: 0;
+        }
+
+        @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@500&family=Imprima&display=swap');
+
+        .leaflet-right {
+            display: none;
+        }
+
+        .leaflet-control-zoom {
+            position: fixed;
+            bottom: 50px;
+            z-index: 9999;
+            float: right;
+            right: 10px;
+        }
+
+        #demo {
+            width: 100%;
+            height: 100vh;
+            z-index: 99;
+        }
+
+        .secondary-cont {
+            padding: 10px;
+            z-index: 999;
+            width: 100%;
+            position: fixed;
+            top: 20px;
+        }
+
+        .search-panel {
+            width: 100%;
+            background-color: #ffff;
+            box-shadow: rgba(0, 84, 223, .35) 0px 6px 20px;
+            border-radius: 10px;
+        }
+
+        /* styling search bar */
+        .search-panel>form {
+            width: 100%;
+            outline: 0;
+            border: none;
+            height: 50px;
+        }
+
+        .search-panel input[type=text] {
+            width: 90%;
+            border-radius: 10px;
+            height: 50px;
+            background: #fff;
+            padding: 0 1.6rem;
+            font-size: 16px;
+            font-family: 'OpenSansRegular';
+            border: none;
+            outline: 0;
+            z-index: 1;
+            position: relative;
+        }
+
+        .search-panel button {
+            color: #f2f2f2;
+            float: right;
+            width: 10%;
+            background-color: #fff;
+            padding: 5px;
+            margin-right: 16px;
+            font-size: 12px;
+            border: none;
+            outline: 0;
+            cursor: pointer;
+        }
+
+        .search-panel img {
+            padding: 5px;
+        }
+
+        .results {
+            z-index: 999;
+            padding: 10px;
+            max-height: 280px;
+            overflow-y: scroll;
+            width: 100%;
+            position: fixed;
+            top: 70px;
+        }
+
+        .result-item {
+            padding: 10px;
+            background: rgba(255, 255, 255);
+            border-radius: 10px;
+            width: 100%;
+            margin-top: 15px;
+            animation: zoom-in-zoom-out 3s ease infinite;
+            color: #333;
+            font-family: 'Imprima-Regular';
+            font-size: 17px;
+        }
+
+        @keyframes searchslider {
+            0% {
+                transform: translateY(100%);
+            }
+
+            100% {
+                transform: translateX(0);
+            }
+        }
+
+        .bottomcont {
+            background-color: #f5f9fe;
+            z-index: 999;
+            position: fixed;
+            bottom: 0;
+            min-height: 20px;
+            width: 100%;
+
+        }
+
+        .bottomcont img {
+            background-color: #f5f9fe;
+            padding: 10px;
+            margin-top: -30px;
+            margin-bottom: 10px;
+            box-shadow: rgba(0, 84, 223, .35) 0px 6px 20px;
+            border-radius: 50%;
+            margin-left: 20px;
+        }
+
+        #route-info {
+            background-color: #f5f9fe;
+            width: 100%;
+            font-family: 'Imprima';
+            transition: 3ms ease-in;
+        }
+
+        #duration {
+            color: #1757e6;
+            padding-left: 10px;
+            font-family: 'Imprima';
+            font-size: 18px;
+        }
+
+        #distance {
+            color: #333;
+            font-family: 'Imprima';
+            padding-left: 10px;
+            font-size: 17px;
+        }
+
+        #desc {
+            color: #333;
+            font-family: 'Imprima';
+            padding-left: 10px;
+            margin-top: -14px;
+            font-size: 13px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="demo"></div>
+    <div class="bottomcont">
+        <img src="https://cdn-icons-png.flaticon.com/128/5632/5632616.png" width="50" height="50">
+        <div id="route-info"></div>
+    </div>
+
+
+
+    <div class="secondary-cont">
+        <div class="container">
+            <div class="row">
+                <div class="search-panel">
+                    <form action="#" class="d-flex">
+                        <input type="text" id="destinationInput" placeholder="Search Places">
+                        <button id="searchButton" style="outline:none;">
+                            <img src="https://app.nflipbk.com/assets/icons/search-btn.svg" width="40" height="40" />
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="results" id="resultsContainer"></div>
+
+    <script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
+    <script type="text/javascript" src="leaflet-routing-machine.js"></script>
+
+    <script>
+        var map = L.map('demo').setView([8.286865180432258, 77.44210659760142], 8);
+        var mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: 'Map data &copy; ' + mapLink,
+            maxZoom: 14,
+        }).addTo(map);
+
+        var sourceIcon = L.icon({
+            iconUrl: 'https://cdn-icons-png.flaticon.com/128/5216/5216405.png', // Replace with your source icon path
+            iconSize: [32, 32],
+            iconAnchor: [16, 32],
+            popupAnchor: [0, -32]
+        });
+
+        var destinationIcon = L.icon({
+            iconUrl: 'https://cdn-icons-png.flaticon.com/128/854/854853.png', // Replace with your destination icon path
+            iconSize: [32, 32],
+            iconAnchor: [16, 32],
+            popupAnchor: [0, -32]
+        });
+
+
+        navigator.geolocation.getCurrentPosition(function(position) {
+            var userLatLng = L.latLng(position.coords.latitude, position.coords.longitude);
+
+            var waypoints = [{
+                latLng: userLatLng,
+                icon: sourceIcon
+            }];
+
+            var routing = L.Routing.control({
+                waypoints: waypoints,
+                routeWhileDragging: true,
+                language: 'en',
+                units: 'metric',
+                createMarker: function(i, waypoint, n) {
+                    return L.marker(waypoint.latLng, {
+                        draggable: true,
+                        icon: waypoint.icon
+                    });
+                }
+            });
+            routing.addTo(map);
+
+            // Set up route information
+            var routeInfo = L.control({
+                position: 'topleft'
+            });
+
+            routeInfo.onAdd = function(map) {
+                var div = L.DomUtil.create('div', 'route-info');
+                return div;
+            };
+
+            routeInfo.addTo(map);
+
+            routing.on('routesfound', function(e) {
+                var route = e.routes[0];
+                var distance = (route.summary.totalDistance / 1000).toFixed(0);
+                var seconds = route.summary.totalTime;
+                var hours = Math.floor(seconds / 3600);
+                seconds -= hours * 3600;
+                var minutes = Math.floor(seconds / 60);
+
+                var durationText = '';
+                if (hours > 0) {
+                    durationText += `${hours} hrs `;
+                }
+                if (minutes > 0 || (hours === 0 && minutes === 0)) {
+                    durationText += `${minutes} mins`;
+                }
+
+                document.getElementById('route-info').innerHTML = `<p> <span id="duration">${durationText}</span><span id="distance">(${distance} km)</span></p><p id="desc">Fastest route now showing..</p>`;
+            });
+
+            var destinationInput = document.getElementById('destinationInput');
+            var searchButton = document.getElementById('searchButton');
+            var setSourceButton = document.getElementById('setSourceButton');
+            var resultsContainer = document.getElementById('resultsContainer');
+
+            var destinationPlaces = [{
+                    name: 'ucen',
+                    latLng: L.latLng(8.169559650260245, 77.41341311896554)
+                },
+                {
+                    name: 'Nagaraja Temple',
+                    latLng: L.latLng(8.18770450347788, 77.43333899549286)
+                },
+                {
+                    name: 'Sreemadam Sri Bala Peedam, Derisnamcope.',
+                    latLng: L.latLng(8.28693297851589, 77.44217056851276)
+                }
+            ];
+
+            function displaySearchResults(results) {
+                resultsContainer.innerHTML = '';
+                results.forEach(function(result) {
+                    var resultItem = document.createElement('div');
+                    resultItem.className = 'result-item';
+                    resultItem.textContent = result.name;
+                    resultItem.onclick = function() {
+
+                        var destinationLatLng = result.latLng;
+                        var waypoints = [{
+                                latLng: userLatLng,
+                                icon: sourceIcon
+                            },
+                            {
+                                latLng: destinationLatLng,
+                                icon: destinationIcon
+                            }
+                        ];
+                        routing.setWaypoints(waypoints);
+                        resultsContainer.innerHTML = '';
+                    };
+                    resultsContainer.appendChild(resultItem);
+                });
+            }
+
+            searchButton.addEventListener('click', function() {
+                var searchQuery = destinationInput.value.toLowerCase();
+                var searchResults = destinationPlaces.filter(function(place) {
+                    return place.name.toLowerCase().includes(searchQuery);
+                });
+                displaySearchResults(searchResults);
+            });
+
+            setSourceButton.addEventListener('click', function() {
+                var waypoints = [{
+                    latLng: userLatLng,
+                    icon: sourceIcon
+                }];
+                routing.setWaypoints(waypoints);
+            });
+        });
+    </script>
+</body>
+
+</html>

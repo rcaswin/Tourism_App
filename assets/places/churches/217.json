@@ -1,0 +1,19 @@
+{
+    "name": "Our lady of Good Health Church",
+    "description": ["'Our Lady of Good Health' was so profound that the elders carried huge stones and other materials on their shoulders from miles away to extend the small church about 150 years ago. Hence it was first extended in 1852.The new church was blessed and dedicated to 'Our Lady of Good Health' by Rt. Rev. Bishop Marianus Arockiasamy. The church tower is one of the tallest towers in South India."],
+    "image": [
+      "churches/217-a.jpg", 
+      "churches/217-b.jpg",
+      "churches/217-c.jpg"],
+    "location" : "Rajakamangalam Thurai, Tamil Nadu 629501",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.115843699181902, 77.37839320580623",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

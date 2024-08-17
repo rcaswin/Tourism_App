@@ -1,0 +1,29 @@
+{
+    "name": "Thottipaalam Esaki Amman Temple",
+    "description": ["Thottipaalam Esaki Amman Temple is a revered temple dedicated to Goddess Esaki Amman, a powerful and protective deity worshipped primarily in Tamil Nadu. The temple is known for its serene atmosphere and traditional architectural style, attracting devotees who seek blessings for protection, health, and prosperity. The temple holds various rituals and ceremonies, particularly during the annual festival dedicated to Esaki Amman, which draws a large number of devotees. The vibrant celebrations and devotional activities create a spiritually uplifting experience for visitors."],
+    "image": [
+      "temples/t122-b.jpg"],
+    "location" : "Nanjilnadu Puthanaru Kalvaai, Theroor, Tamil Nadu",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.196492511307557, 77.48019122788241",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

@@ -1,0 +1,20 @@
+{
+    "name": "Nikki Bonsai Garden",
+      "description": ["The Nikki Bonsai Garden is a renowned bonsai garden located in Thuckalay, Nigeria. It is celebrated for its exquisite collection of bonsai trees meticulously cultivated and displayed in a serene and beautifully landscaped setting. The garden offers visitors a peaceful retreat amidst nature, where they can admire the artistry and craftsmanship involved in shaping and maintaining these miniature trees. Nikki Bonsai Garden serves as both an educational center and a place of relaxation, showcasing the beauty and cultural significance of bonsai artistry in Kanyakumari district."],
+      "image": [
+        "parksandforts/710-a.jpg", 
+        "parksandforts/710-b.jpg", 
+        "parksandforts/710-c.jpg"],
+      "location" : "782F+FX3, Near Padmanabhapuram Palace, Chakala, Thuckalay, Tamil Nadu 629175",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.251358299914752, 77.32492259140584",
+     
+      "visitingtime": {
+        "starttime": "09:00 AM",
+        "closingtime": "05:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]  
+}

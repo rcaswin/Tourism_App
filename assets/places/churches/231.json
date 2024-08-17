@@ -1,0 +1,19 @@
+{
+    "name": "Our Lady of the Holy Rosary Church",
+    "description": ["This was one of the oldest parishes in the kanyakumari district.It was the parish in 1700 which included surrounding villages."],
+    "image": [
+      "churches/231-a.jpg", 
+      "churches/231-b.jpg",
+      "churches/231-c.jpg"],
+    "location" : " Puthenthurai, Tamil Nadu 629501",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.10401419221454, 77.4142882261387",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

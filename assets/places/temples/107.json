@@ -1,0 +1,31 @@
+{
+    "name": "Arulmigu Sri Mandaikadu bhagavathi Temple",
+    "description": ["Mondaicaud Bhagavathi Temple is dedicated to Goddess Bhagavathi. The temple is known for its annual festival, which attracts a large number of devotees. The temple's architecture reflects traditional Kerala and Tamil styles, featuring beautifully carved pillars and ornate decorations."],
+    "image": [
+      "temples/t107-a.jpg", 
+      "temples/t107-b.jpg", 
+      "temples/t107-c.jpg"],
+    "location" : "Mandaikadu, Tamil Nadu 629252",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.179590048478977, 77.27781876745837",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "name": "Baywatch",
+    "description": ["Parks are dedicated spaces where people can have fun, relax and connect with nature. They also provide habitats and a safe environment for wildlife. Parks are either natural or landscaped to create an enjoyable space for all. Urban parks are special areas located within towns &amp; cities which have been dedicated for leisure activities and relaxation. They provide a breath of fresh air from the hustle and bustle of city life. National parks can be incredibly vast and cover hundreds of thousands of square kilometers or miles. Explore and discover the rich wildlife and natural features like mountains & rivers, all in one place. Acquiring a permit permits people to camp in tents in large parks. To preserve the environment, various laws are in place to protect natural parks from harm. As a result, visitors need to abide by regulations such as not starting open fires or bringing glassware with them. Overseeing these activities is usually the job of park rangers across large national and sub-national parks."],
+    "image": [
+      "parksandforts/701-a.jpg", 
+      "parksandforts/702-b.jpg", 
+      "parksandforts/703-c.jpg"],
+    "location" : "Kovalam Rd, Kanniyakumari, Tamil Nadu 629702",
+    "categorycodes": "parksandforts",
+    "latlongvalue": "8.082335750152271, 77.53349832766668",
+    "holiday": [
+      "Open All Days"
+    ],
+    "entryfee" : [
+        "Kids : ₹ 350",
+        "Adult : ₹ 400"
+    ]
+}

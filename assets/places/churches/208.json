@@ -1,0 +1,19 @@
+{
+    "name": "St. Devasahayam church",
+    "description": ["Aralvaimozhi, a town in Kanyakumari District, is renowned for its Catholic church located atop Kattadi Malai. Here, the martyr Devasahayam Pillai was canonized as a saint by Pope Francis on 15th May 2022 - marking the 270th death anniversary of Pillai who passed away on 14 January 1752.The local people of the region found Pillai's body and took it to St. Xavier's Church in Kottar, Nagercoil. His mortal remains were placed near the altar of this church, now known as the diocesan Cathedral."],
+    "image": [
+      "churches/208-a.jpg", 
+      "churches/208-b.jpg", 
+      "churches/208-c.jpg"],
+    "location" : "Aralvaimozhi, Tamil Nadu 629302",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.240801898362335, 77.52497914654485",
+    "visitingtime": {
+      "starttime": "12:00 AM",
+      "closingtime": "12:00 AM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

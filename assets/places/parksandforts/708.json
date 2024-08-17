@@ -1,0 +1,20 @@
+{
+    "name": "Vattakottai Fort",
+      "description": ["Vattakottai Fort, also known as 'Circular Fort', is a majestic fortification situated near Kanyakumari, Tamil Nadu which marks the southern tip of India. Built-in the 18th century as a fortress and barracks during the Travancore kingdom period, it served as an important sea defense base.It was constructed in the 18th century by Punachal/Elakkara Valiyaveetil Marthandan Chempakaraman Pillai for the kings of Travancore.The fort is made of granite blocks and, today, a part of the fort extends into the sea. The Indian archaeological department has declared this site a protected area, and recently completed a renovation to the fort. It has now become a popular tourist destination, due to its reinvention and preservation."],
+      "image": [
+        "parksandforts/708-a.jpg", 
+        "parksandforts/708-b.jpg", 
+        "parksandforts/708-c.jpg"],
+      "location" : "1|60 Vattakottai, Tamil Nadu 629401",
+      "categorycodes": "parksandforts",
+     
+      "latlongvalue": "8.125728531037693, 77.56501008966384",
+     
+      "visitingtime": {
+        "starttime": "08:00 AM",
+        "closingtime": "05:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]  
+}

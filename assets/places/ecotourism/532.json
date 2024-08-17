@@ -1,0 +1,17 @@
+{
+    "name": "Aruvikkarai water falls",
+    "description": ["This is the Beauty of Aruvikkarai River Thiruvattar in Kanyakumari.One of the most popular attractions in Aruvikkarai is the Aruvikkarai Waterfall, which is located just a short distance from the village. The place located between the Thiruvattar and Mathoor. Its one of the hidden gem in Kanyakumari, very less known tourist destination but best to spend time with family. It is a small village and not much popular area only local people visit here to bath to to a temple (Sree Sapthamathrukkal Devi Temple) on the side of river."],
+    "image": [
+      "ecotoursim/532-a.jpg", 
+      "ecotoursim/532-b.jpg",
+      "ecotoursim/532-c.jpg",
+      "ecotoursim/532-d.jpg",
+      "ecotoursim/532-e.jpg"],
+    "location" : "87JG+8M Thiruvattaru, Tamil Nadu",
+    "categorycodes": "Waterfalls",
+    "latlongvalue": "8.331056980700378, 77.27668505131719",
+    "visitingtime": "Open 24 hour",
+    "holiday": [
+      "Open All Days"
+    ]
+}

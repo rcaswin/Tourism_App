@@ -1,0 +1,32 @@
+{
+    "name": "Aadhikesava Perumal Temple",
+    "description": ["The temple has an area of 3 acres 27 cents. The temple is situated on a large mound 5 m above the ground level. The grandeur of the temple and the river flowing around the temple on three sides are its special features.",
+  "festivals/nChitrai - Vishu, Poornami, Sri Rama Navami, Bharani, Vaikasi – Visakham, Aadi - Makara Sankranti, temple mass, Avani - Krishna Jayanti, Thiruvananthapuram, Karthikai - Scorpio lamp, Margazhi - Heaven Gate Ekadasi, The festival takes place for ten days in the months of Aipasi and Panguni. Panguni month celebration is great.  "],
+    "image": [
+      "temples/t101-a.jpg", 
+      "temples/t101-b.jpg", 
+      "temples/t101-c.jpg"],
+    "location" : "Temple Road Kalkulam, Kulasegaram Taluk, Thiruvattaru, TamilNadu 629171",
+    "categorycodes": "temples",
+    "districtcode": "30",
+    "latlongvalue": "8.330417853251143, 77.26614342960508",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "ada",
+      "email": "ram@gmail.com",
+      "mobileno": " 044 2819 3238"
+    },
+    "links": ["asa"
+    ],
+    "visitingtime": {
+      "starttime": "5:00 AM",
+      "closingtime": "8:15 PM"
+    },
+    "entryfee" : [
+        "Free"
+    ]
+  }

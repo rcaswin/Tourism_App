@@ -1,0 +1,15 @@
+{
+    "name": "Mandaikadu Beach",
+    "description": [
+        "Mandaikadu Beach is a tranquil and beautiful beach located near the Mandaikadu Bhagavathi Amman Temple in Kanyakumari, Tamil Nadu. Known for its serene atmosphere and natural beauty, this beach offers a peaceful retreat for visitors. The pristine sands and calm waters make it an ideal spot for relaxation and leisurely walks along the shore."
+    ],
+    "image": [
+        "beaches/316-a.jpg",
+        "beaches/316-b.jpg",
+        "beaches/316-c.jpg",
+        "beaches/316-d.jpg"
+    ],
+    "location": "Mandaikadu, Kanniyakumari, Tamil Nadu, 629252, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.161509455016718, 77.27822208003013"
+}

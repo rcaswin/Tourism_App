@@ -1,0 +1,30 @@
+{
+    "name": "Boothalinga Swamy - Sivagami Ambal Temple",
+    "description": ["Boothalinga Swamy - Sivagami Ambal Temple is a prominent Hindu temple dedicated to Lord Shiva, worshipped here as Boothalinga Swamy, and his consort, Goddess Parvati, known as Sivagami Ambal. The temple is renowned for its serene ambiance and traditional Dravidian architecture. Devotees visit the temple to seek blessings for spiritual well-being, health, and prosperity. The temple hosts various rituals and festivals, especially during Maha Shivaratri, which attracts a large number of worshippers. The temple's sacred environment provides a tranquil setting for meditation and prayer."],
+    "image": [
+      "temples/t124-b.jpg", 
+      "temples/t124-c.jpg"],
+    "location" : "near BHOOTHAPANDY, Boothapandi, Tamil Nadu 629852",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.264181922571398, 77.44877401018353",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "5:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

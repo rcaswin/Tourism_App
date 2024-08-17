@@ -1,0 +1,19 @@
+{
+    "name": "St.Bartholomew's Church",
+    "description": ["This church was the well known for its artwork.Located in a peaceful atmosphere."],
+    "image": [
+      "churches/216-a.jpg", 
+      "churches/216-b.jpg",
+      "churches/216-c.jpg"],
+    "location" : "Kodimunai, Tamil Nadu 629251",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.170751883236056, 77.26443200869144",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

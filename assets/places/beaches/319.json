@@ -1,0 +1,15 @@
+{
+    "name": "Marthandamthurai Beach",
+    "description": [
+        "Marthandamthurai Beach is a quaint and tranquil beach located in Kanyakumari, Tamil Nadu. Known for its serene and peaceful atmosphere, this beach is perfect for visitors looking to escape the hustle and bustle of city life. The natural beauty and calm waters of Marthandamthurai Beach make it an ideal spot for relaxation and leisurely activities."
+    ],
+    "image": [
+        "beaches/319-a.jpg",
+        "beaches/319-b.jpg",
+        "beaches/319-c.jpg",
+        "beaches/319-d.jpg"
+    ],
+    "location": "Marthandamthurai, Kanniyakumari, Tamil Nadu, 629158, India.",
+    "categorycodes": "beaches",
+    "latlongvalue": "8.296716845917075, 77.10473273556916"
+}

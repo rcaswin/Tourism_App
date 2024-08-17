@@ -1,0 +1,29 @@
+{
+    "name": "Alamoodu Amman Kovil",
+    "description": ["Alamoodu Amman Kovil is a revered temple dedicated to Goddess Amman, a powerful deity worshipped widely in Tamil Nadu. The temple is known for its peaceful ambiance and traditional South Indian architecture. Devotees visit the temple to seek blessings for health, prosperity, and protection from evil. The temple holds various festivals and special poojas, particularly during the Tamil month of Aadi, which draws large crowds of devotees. The rituals and ceremonies performed at the temple are believed to bring divine grace and fulfill the wishes of the devotees."],
+    "image": [
+      "temples/t117-a.jpg"],
+    "location" : "",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.259815903834612, 77.55016258636311",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "7:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "Thiruparappu Waterfalls",
+    "description": [" Thiruparappu is located about 55 kilometers away from kanniyakumari. The Kodayar makes its descend at Tirparappu and the water fall at this place is about 13km. from Pechiparai dam. The river bed is rocky and about 300 feet in length. The water falls from a height of nearly 50 feet and the water flows for about seven months in a year. The whole bed above the falls is one rocky mass which extends up to a distance of about quarter of a kilometer upstream where the famous Thirparappu weir has been constructed for supplying water to the paddy fields. On either side of the river, on the left bank of the river in between the water falls and the weir, there is a temple dedicated to Siva enclosed by strong fortification. The District Administration has constructed a swimming pool for children over here which is very popular among the children."],
+    "image": [
+      "ecotoursim/515-a.jpg", 
+      "ecotoursim/515-b.jpg",
+      "ecotoursim/515-c.jpg",
+      "ecotoursim/515-d.jpg"],
+    "location" : "97W6+5WV Water Falls, Tiruparapu, Tamil Nadu 629151",
+    "categorycodes": "Waterfalls",
+    "latlongvalue": "8.391490287299034, 77.25942909493652",
+    "visitingtime": {
+        "starttime": "07:00 AM",
+        "closingtime": "06:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

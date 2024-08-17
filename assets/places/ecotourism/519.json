@@ -1,0 +1,20 @@
+{
+    "name": "Mukkadal Dam",
+    "description": ["Mukkadal dam is built across the Vambaru River located in the state of Tamil Nadu. It is located near Thuvarankadu Village in Kanyakumari District. The district capital and nearby town Nagercoil is located 10 km from the dam. It was built in 1945 by Sree Chithira Thirunal Balarama Varma, the King of Travancore. The dam is a natural earthen dam constructed using clay and granite stones. The dam and reservoir are surrounded is set on the backdrop of forest surrounded by hills on three sides. There is a park located adjacent to the dam. The reservoir supplies water for the town of Nagercoil. The capacity of the reservoir was initially at 84mcft with Full Reservoir level of 60.98m. It was later increased to 105 mcft and 62.20m respectively in 1979. Despite this the water supply is deemed inadequate and new plans for obtaining additional water from Paraliar river is under works."],
+    "image": [
+      "ecotoursim/519-a.jpg", 
+      "ecotoursim/519-b.jpg",
+      "ecotoursim/519-c.jpg",
+      "ecotoursim/519-d.jpg",
+      "ecotoursim/519-e.jpg"],
+    "location" : "Mukkadal Dam & Vivekananda Kendra, Jetty, Kanyakumari, Tamil Nadu, 629702, India",
+    "categorycodes": "Dam",
+    "latlongvalue": "8.28139443950305, 77.41041549400721",
+    "visitingtime": {
+        "starttime": "06:00 AM",
+        "closingtime": "06:00 PM"
+      },
+    "holiday": [
+      "Open All Days"
+    ]
+}

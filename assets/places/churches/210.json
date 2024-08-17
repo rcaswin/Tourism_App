@@ -1,0 +1,19 @@
+{
+    "name": "St. Michael The Archangel's Church",
+    "description": ["Rajavoor is known for St. Michael's Shrine which is located at Therkur South Rajavoor. On the first Friday of May, the kickoff for the year's annual feast takes place. The event begins with a flag-hoisting ceremony, followed by ten days of Mass and adoration. On the eighth and ninth days of celebrations, a car parade is organized to honor St. Michael, the Arch angel. Individuals of different religious backgrounds come together in one place, regardless of their beliefs. The Roman Catholics and parish belong to the Kottar Diocese."],
+    "image": [
+      "churches/210-a.jpg", 
+      "churches/210-b.jpg", 
+      "churches/210-c.jpg"],
+    "location" : " Rajavoor, Tamil Nadu 629402",
+    "categorycodes": "Church",
+    "districtcode": "30",
+    "latlongvalue": "8.187359015163588, 77.50138129428497",
+    "visitingtime": {
+      "starttime": "05:00 AM",
+      "closingtime": "08:00 PM"
+    },
+    "holiday": [
+      "Open All Days"
+    ]
+}

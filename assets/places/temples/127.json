@@ -1,0 +1,29 @@
+{
+    "name": "Marthal Vinayagar",
+    "description": ["Marthal Vinayagar Temple is a revered Hindu temple dedicated to Lord Ganesha, known as Vinayagar in Tamil. Lord Ganesha, the remover of obstacles and the god of wisdom and beginnings, is worshipped here with great devotion. The temple is known for its peaceful ambiance and traditional architecture, featuring a beautifully adorned idol of Lord Ganesha. Devotees visit the temple to seek blessings for success, prosperity, and the removal of obstacles in their personal and professional lives. The temple is especially crowded during festivals such as Vinayaka Chaturthi, when special poojas and rituals are conducted."],
+    "image": [
+      "temples/t127-b.jpg"],
+    "location" : "Mukkadal Dam Rd, Thittuvilai, Tamil Nadu 629852",
+    "categorycodes": "temples",
+    "districtcode": "",
+    "latlongvalue": "8.274560011905157, 77.43704518616917",
+    "keywords": [
+      "a",
+      "b",
+      "c"
+    ],
+    "contactdetails": {
+      "name": "NA",
+      "email": "NA",
+      "mobileno": "NA"
+    },
+    "links": ["NA"
+    ],
+    "visitingtime": {
+      "starttime": "6:00 AM",
+      "closingtime": "8:00 PM"
+    },
+    "entryfee" : [
+        "NA"
+    ]
+  }
