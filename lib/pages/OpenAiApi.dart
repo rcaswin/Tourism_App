@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class OpenAiApi {
   static const String baseUrl = 'https://api.openai.com/v1';
-  static const String apiKey = 'sk-proj-O94C1d3XzWuR3sFNPge1T3BlbkFJa7HzSw8XZqfSsg038N48'; // Replace with your OpenAI API key
+  static const String apiKey = ''; // Replace with your OpenAI API key
 
   Future<String> getResponse(String message) async {
     try {
