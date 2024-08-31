@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 class GeminiApi {
   static const String baseUrl = 'https://api.gemini.com/v1'; // Replace with the correct Gemini API base URL
-  static const String apiKey = 'AIzaSyAy9vztYxEm65qRjraV1x9t5NEjehYlVQ8';
+  static const String apiKey = '';
 
   Future<String> getResponse(String message) async {
     try {
